@@ -14,14 +14,14 @@
 	ContainerHeight = '1613'
 	ContainerWidth = '3840'
 	Flags = '2'
-	Height = '1569'
-	Left = '1193'
+	Height = '1559'
+	Left = '1189'
 	MinX = '-1'
 	MinY = '-1'
 	State = '3'
-	Top = '-42'
+	Top = '-40'
 	ViewType = '0'
-	Width = '2461'
+	Width = '2457'
 
 [Wsp\Window_0\ChartManager]
 	ChartCount = '2'
@@ -77,9 +77,9 @@
 	ExpirationDate = '0'
 	FieldId = '201'
 	FieldName = 'Trade'
-	FinishDate2Id = '45016'
+	FinishDate2Id = '45199'
 	FinishDate2Name = ''
-	FinishDateId = '44901'
+	FinishDateId = '45552'
 	FinishDateName = ''
 	FootPrintChartType = '0'
 	KagiReversal = '0,25'
@@ -92,7 +92,7 @@
 	PFigureReversal = '3'
 	PriceScale = '111'
 	RangeId = '1'
-	RangeName = ''
+	RangeName = 'PERIOD'
 	RealTimeCategory = '0'
 	RealTimeDataFeed = 'ASCII Mapping'
 	RealTimeExchange = 'CME'
@@ -112,7 +112,7 @@
 	ShowPhantomBars = '1'
 	ShowRealOpen = '0'
 	ShowWick = '0'
-	StartDateId = '44805'
+	StartDateId = '45016'
 	StartDateName = ''
 	StrikePrice = ''
 	Symbol = 'P.ES'
@@ -228,8 +228,8 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_10\Object]
 	Calculation = '0'
-	Coord_Index_0 = '11877'
-	Coord_Index_1 = '11877'
+	Coord_Index_0 = '10289'
+	Coord_Index_1 = '10289'
 	CreatedSymbolName = '@ES.D'
 	FixedPoint = '0'
 	IsAnchorToBar = '1'
@@ -303,8 +303,8 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_11\Object]
 	Calculation = '0'
-	Coord_Index_0 = '11877'
-	Coord_Index_1 = '11877'
+	Coord_Index_0 = '10289'
+	Coord_Index_1 = '10289'
 	CreatedSymbolName = '@ES.D'
 	FixedPoint = '0'
 	IsAnchorToBar = '1'
@@ -378,8 +378,8 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_12\Object]
 	Calculation = '0'
-	Coord_Index_0 = '11877'
-	Coord_Index_1 = '11877'
+	Coord_Index_0 = '10289'
+	Coord_Index_1 = '10289'
 	CreatedSymbolName = '@ES.D'
 	FixedPoint = '0'
 	IsAnchorToBar = '1'
@@ -453,8 +453,8 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_13\Object]
 	Calculation = '0'
-	Coord_Index_0 = '11877'
-	Coord_Index_1 = '11877'
+	Coord_Index_0 = '10289'
+	Coord_Index_1 = '10289'
 	CreatedSymbolName = '@ES.D'
 	FixedPoint = '0'
 	IsAnchorToBar = '1'
@@ -527,8 +527,8 @@
 	Number = '3'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_14\Object]
-	Coord_Index_0 = '11877'
-	Coord_Index_1 = '11877'
+	Coord_Index_0 = '10289'
+	Coord_Index_1 = '10289'
 	CreatedSymbolName = '@ES.D'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -751,8 +751,8 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_15\Object]
 	Calculation = '0'
-	Coord_Index_0 = '11877'
-	Coord_Index_1 = '11877'
+	Coord_Index_0 = '10289'
+	Coord_Index_1 = '10289'
 	CreatedSymbolName = '@ES.D'
 	FixedPoint = '0'
 	IsAnchorToBar = '1'
@@ -826,7 +826,7 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_16\Object]
 	Align = '18'
-	Coord_Index_0 = '11877'
+	Coord_Index_0 = '10289'
 	CreatedSymbolName = '@ES.D'
 	FontBackColor = '16777215'
 	FontColor = '0'
@@ -947,8 +947,8 @@
 	Number = '1'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_18\Object]
-	Coord_Index_0 = '11877'
-	Coord_Index_1 = '11877'
+	Coord_Index_0 = '10289'
+	Coord_Index_1 = '10289'
 	CreatedSymbolName = '@ES.D'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -983,8 +983,8 @@
 	Number = '2'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_19\Object]
-	Coord_Index_0 = '11877'
-	Coord_Index_1 = '11877'
+	Coord_Index_0 = '10289'
+	Coord_Index_1 = '10289'
 	CreatedSymbolName = '@ES.D'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -1015,8 +1015,8 @@
 	Width = '1'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_1\Object]
-	Coord_Index_0 = '11561'
-	Coord_Index_1 = '11561'
+	Coord_Index_0 = '0'
+	Coord_Index_1 = '0'
 	CreatedSymbolName = 'P.ES-2023M'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -1242,8 +1242,8 @@
 	Number = '3'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_20\Object]
-	Coord_Index_0 = '11877'
-	Coord_Index_1 = '11877'
+	Coord_Index_0 = '10289'
+	Coord_Index_1 = '10289'
 	CreatedSymbolName = '@ES.D'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -1278,8 +1278,8 @@
 	Number = '4'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_21\Object]
-	Coord_Index_0 = '11877'
-	Coord_Index_1 = '11877'
+	Coord_Index_0 = '10289'
+	Coord_Index_1 = '10289'
 	CreatedSymbolName = '@ES.D'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -1314,8 +1314,8 @@
 	Number = '5'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object]
-	Coord_Index_0 = '11877'
-	Coord_Index_1 = '11877'
+	Coord_Index_0 = '10289'
+	Coord_Index_1 = '10289'
 	CreatedSymbolName = '@ES.D'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -1350,8 +1350,8 @@
 	Number = '6'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_23\Object]
-	Coord_Index_0 = '11877'
-	Coord_Index_1 = '11877'
+	Coord_Index_0 = '10289'
+	Coord_Index_1 = '10289'
 	CreatedSymbolName = '@ES.D'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -1386,8 +1386,8 @@
 	Number = '7'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_24\Object]
-	Coord_Index_0 = '11877'
-	Coord_Index_1 = '11877'
+	Coord_Index_0 = '10289'
+	Coord_Index_1 = '10289'
 	CreatedSymbolName = '@ES.D'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -1422,8 +1422,8 @@
 	Number = '8'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_25\Object]
-	Coord_Index_0 = '11877'
-	Coord_Index_1 = '11877'
+	Coord_Index_0 = '10289'
+	Coord_Index_1 = '10289'
 	CreatedSymbolName = '@ES.D'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -1458,8 +1458,8 @@
 	Number = '9'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_26\Object]
-	Coord_Index_0 = '11877'
-	Coord_Index_1 = '11877'
+	Coord_Index_0 = '10289'
+	Coord_Index_1 = '10289'
 	CreatedSymbolName = '@ES.D'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -1494,8 +1494,8 @@
 	Number = '10'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_27\Object]
-	Coord_Index_0 = '11877'
-	Coord_Index_1 = '11877'
+	Coord_Index_0 = '10289'
+	Coord_Index_1 = '10289'
 	CreatedSymbolName = '@ES.D'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -1530,8 +1530,8 @@
 	Number = '11'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_28\Object]
-	Coord_Index_0 = '11877'
-	Coord_Index_1 = '11877'
+	Coord_Index_0 = '10289'
+	Coord_Index_1 = '10289'
 	CreatedSymbolName = '@ES.D'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -1566,8 +1566,8 @@
 	Number = '12'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_29\Object]
-	Coord_Index_0 = '11877'
-	Coord_Index_1 = '11877'
+	Coord_Index_0 = '10289'
+	Coord_Index_1 = '10289'
 	CreatedSymbolName = 'P.ES'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -1598,8 +1598,8 @@
 	Width = '1'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_2\Object]
-	Coord_Index_0 = '11561'
-	Coord_Index_1 = '11564'
+	Coord_Index_0 = '0'
+	Coord_Index_1 = '0'
 	CreatedSymbolName = 'P.ES-2023M'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -1825,8 +1825,8 @@
 	Number = '13'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_30\Object]
-	Coord_Index_0 = '11877'
-	Coord_Index_1 = '11877'
+	Coord_Index_0 = '10289'
+	Coord_Index_1 = '10289'
 	CreatedSymbolName = 'P.ES'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -1858,8 +1858,8 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_3\Object]
 	Calculation = '0'
-	Coord_Index_0 = '11877'
-	Coord_Index_1 = '11877'
+	Coord_Index_0 = '329'
+	Coord_Index_1 = '329'
 	CreatedSymbolName = 'P.ES-2023M'
 	FixedPoint = '0'
 	IsAnchorToBar = '1'
@@ -1933,8 +1933,8 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_4\Object]
 	Calculation = '0'
-	Coord_Index_0 = '11877'
-	Coord_Index_1 = '11877'
+	Coord_Index_0 = '10289'
+	Coord_Index_1 = '10289'
 	CreatedSymbolName = '@ES.D'
 	FixedPoint = '0'
 	IsAnchorToBar = '1'
@@ -2008,8 +2008,8 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_5\Object]
 	Calculation = '0'
-	Coord_Index_0 = '11877'
-	Coord_Index_1 = '11877'
+	Coord_Index_0 = '10289'
+	Coord_Index_1 = '10289'
 	CreatedSymbolName = '@ES.D'
 	FixedPoint = '0'
 	IsAnchorToBar = '1'
@@ -2083,8 +2083,8 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_6\Object]
 	Calculation = '0'
-	Coord_Index_0 = '11877'
-	Coord_Index_1 = '11877'
+	Coord_Index_0 = '10289'
+	Coord_Index_1 = '10289'
 	CreatedSymbolName = '@ES.D'
 	FixedPoint = '0'
 	IsAnchorToBar = '1'
@@ -2158,8 +2158,8 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_7\Object]
 	Calculation = '0'
-	Coord_Index_0 = '11877'
-	Coord_Index_1 = '11877'
+	Coord_Index_0 = '10289'
+	Coord_Index_1 = '10289'
 	CreatedSymbolName = '@ES.D'
 	FixedPoint = '0'
 	IsAnchorToBar = '1'
@@ -2233,8 +2233,8 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_8\Object]
 	Calculation = '0'
-	Coord_Index_0 = '11877'
-	Coord_Index_1 = '11877'
+	Coord_Index_0 = '10289'
+	Coord_Index_1 = '10289'
 	CreatedSymbolName = '@ES.D'
 	FixedPoint = '0'
 	IsAnchorToBar = '1'
@@ -2308,8 +2308,8 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_9\Object]
 	Calculation = '0'
-	Coord_Index_0 = '11877'
-	Coord_Index_1 = '11877'
+	Coord_Index_0 = '10289'
+	Coord_Index_1 = '10289'
 	CreatedSymbolName = '@ES.D'
 	FixedPoint = '0'
 	IsAnchorToBar = '1'
@@ -2389,8 +2389,8 @@
 	ManualMode = '0'
 	MarginBottom = '5'
 	MarginTop = '5'
-	Maximum = '4145,69444444444'
-	Minimum = '4056,80555555556'
+	Maximum = '4374,59722222222'
+	Minimum = '4307,65277777778'
 	MovementSize.Long = '1'
 	MovementSize.Metric = 'False'
 	MovementSize.Price = '5'
@@ -4630,8 +4630,8 @@
 	ManualMode = '0'
 	MarginBottom = '5'
 	MarginTop = '5'
-	Maximum = '4145,69444444444'
-	Minimum = '4056,80555555556'
+	Maximum = '4374,59722222222'
+	Minimum = '4307,65277777778'
 	MovementSize.Long = '1'
 	MovementSize.Metric = 'False'
 	MovementSize.Price = '5'
@@ -5345,8 +5345,8 @@
 	ManualMode = '0'
 	MarginBottom = '5'
 	MarginTop = '5'
-	Maximum = '4145,69444444444'
-	Minimum = '4056,80555555556'
+	Maximum = '4374,59722222222'
+	Minimum = '4307,65277777778'
 	MovementSize.Long = '1'
 	MovementSize.Metric = 'False'
 	MovementSize.Price = '5'
@@ -5486,8 +5486,8 @@
 	ManualMode = '0'
 	MarginBottom = '5'
 	MarginTop = '5'
-	Maximum = '4145,69444444444'
-	Minimum = '4056,80555555556'
+	Maximum = '4374,59722222222'
+	Minimum = '4307,65277777778'
 	MovementSize.Long = '1'
 	MovementSize.Metric = 'False'
 	MovementSize.Price = '5'
@@ -7131,8 +7131,8 @@
 
 [Wsp\Window_0\ChartManager\IndexViewCalc]
 	BarSpacing = '26'
-	BarsToRight = '0'
-	BarsToRightValue = '0'
+	BarsToRight = '23,125'
+	BarsToRightValue = '33'
 	ChartShiftViewType = '0'
 	ShowEmptyPeriod = '0'
 
@@ -8824,6 +8824,9 @@
 	Step2 = '1'
 	Stop2 = '1'
 	Value = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input__DebugLevel2]
+	Value = 'false'
 
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input__DebugON]
 	Value = 'false'
@@ -13752,6 +13755,9 @@
 	Stop2 = '1'
 	Value = '1'
 
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input__DebugLevel2]
+	Value = 'false'
+
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input__DebugON]
 	Value = 'false'
 
@@ -14481,7 +14487,7 @@
 	Value = '"Cx BL"'
 
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_________DEBUG_______]
-	Value = '"test"'
+	Value = '"7-1-/2023 to 9-30-2023 $4280" '
 
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_________FRAMA_______]
 	Value = '"FRAMA"'
@@ -18620,7 +18626,7 @@ The reserved words supported in Portfolio optimization:
 	TIF = '1'
 
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings\Item_0\Second\TIFDate]
-	Ticks = '638620550855200000'
+	Ticks = '638622106635560000'
 
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\Window]
 	Property_CalcPriceValue = '0'
