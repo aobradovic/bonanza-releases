@@ -14,14 +14,14 @@
 	ContainerHeight = '1613'
 	ContainerWidth = '3840'
 	Flags = '2'
-	Height = '1504'
-	Left = '1166'
+	Height = '1549'
+	Left = '0'
 	MinX = '-1'
 	MinY = '-1'
 	State = '3'
-	Top = '-29'
+	Top = '0'
 	ViewType = '0'
-	Width = '2433'
+	Width = '2453'
 
 [Wsp\Window_0\ChartManager]
 	ChartCount = '2'
@@ -41,7 +41,7 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0]
 	DataNumber = '0'
-	DrawingsCount = '57'
+	DrawingsCount = '49'
 	ResolutionLinkId = '0'
 	ResolutionWsGlobal = '0'
 	SeriesType = '1'
@@ -59,7 +59,7 @@
 	BreakOnSession = '1'
 	BuildDayFromMinutes = '0'
 	CallPut = '0'
-	CapacityId = '90'
+	CapacityId = '10'
 	CapacityName = ''
 	Category = '0'
 	CategoryFilter = '254'
@@ -77,9 +77,9 @@
 	ExpirationDate = '0'
 	FieldId = '201'
 	FieldName = 'Trade'
-	FinishDate2Id = '39813'
+	FinishDate2Id = '45291'
 	FinishDate2Name = ''
-	FinishDateId = '45562'
+	FinishDateId = '45209'
 	FinishDateName = ''
 	FootPrintChartType = '0'
 	KagiReversal = '0,25'
@@ -91,8 +91,8 @@
 	PFigureBoxSize = '0,25'
 	PFigureReversal = '3'
 	PriceScale = '111'
-	RangeId = '1'
-	RangeName = 'PERIOD'
+	RangeId = '0'
+	RangeName = ''
 	RealTimeCategory = '0'
 	RealTimeDataFeed = 'ASCII Mapping'
 	RealTimeExchange = 'CME'
@@ -112,7 +112,7 @@
 	ShowPhantomBars = '1'
 	ShowRealOpen = '0'
 	ShowWick = '0'
-	StartDateId = '39448'
+	StartDateId = '45107'
 	StartDateName = ''
 	StrikePrice = ''
 	Symbol = 'P.ES'
@@ -220,7 +220,7 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_1]
 	DrawingType = '3'
-	Number = '1'
+	Number = '4'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_10]
 	DrawingType = '2'
@@ -228,8 +228,8 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_10\Object]
 	Calculation = '0'
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '817'
+	Coord_Index_1 = '817'
 	CreatedSymbolName = '@ES.D'
 	FixedPoint = '0'
 	IsAnchorToBar = '1'
@@ -303,8 +303,8 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_11\Object]
 	Calculation = '0'
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '817'
+	Coord_Index_1 = '817'
 	CreatedSymbolName = '@ES.D'
 	FixedPoint = '0'
 	IsAnchorToBar = '1'
@@ -378,8 +378,8 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_12\Object]
 	Calculation = '0'
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '817'
+	Coord_Index_1 = '817'
 	CreatedSymbolName = '@ES.D'
 	FixedPoint = '0'
 	IsAnchorToBar = '1'
@@ -453,8 +453,8 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_13\Object]
 	Calculation = '0'
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '817'
+	Coord_Index_1 = '817'
 	CreatedSymbolName = '@ES.D'
 	FixedPoint = '0'
 	IsAnchorToBar = '1'
@@ -524,11 +524,11 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_14]
 	DrawingType = '3'
-	Number = '3'
+	Number = '6'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_14\Object]
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '817'
+	Coord_Index_1 = '817'
 	CreatedSymbolName = '@ES.D'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -751,8 +751,8 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_15\Object]
 	Calculation = '0'
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '817'
+	Coord_Index_1 = '817'
 	CreatedSymbolName = '@ES.D'
 	FixedPoint = '0'
 	IsAnchorToBar = '1'
@@ -826,7 +826,7 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_16\Object]
 	Align = '18'
-	Coord_Index_0 = '20463'
+	Coord_Index_0 = '817'
 	CreatedSymbolName = '@ES.D'
 	FontBackColor = '16777215'
 	FontColor = '0'
@@ -943,186 +943,80 @@
 	Width = '1'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_18]
-	DrawingType = '1'
-	Number = '3'
+	DrawingType = '13'
+	Number = '1'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_18\Object]
-	Coord_Index_0 = '0'
-	CreatedSymbolName = 'P.ES'
+	Coord_Index_0 = '817'
+	Coord_Index_1 = '817'
+	CreatedSymbolName = '@ES.D'
 	IsAnchorToBar = '1'
 	Lock = 'False'
 	Status = 'True'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_18\Object\AlertObject]
-	AlertEnable = '0'
-	AlertType = '1'
-	PropertyCount = '8'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_18\Object\AlertObject\Property_0]
-	PropertyName = '_Audio_Enable'
-	PropertyValue = '1'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_18\Object\AlertObject\Property_1]
-	PropertyName = '_Audio_Sound'
-	PropertyValue = '1'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_18\Object\AlertObject\Property_2]
-	PropertyName = '_Audio_Sound_File'
-	PropertyValue = 'ding.wav'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_18\Object\AlertObject\Property_3]
-	PropertyName = '_Audio_Sound_Repeat'
-	PropertyValue = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_18\Object\AlertObject\Property_4]
-	PropertyName = '_Visual_Enable'
-	PropertyValue = '1'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_18\Object\AlertObject\Property_5]
-	PropertyName = '_Visual_Timeout'
-	PropertyValue = '5'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_18\Object\AlertObject\Property_6]
-	PropertyName = '_Email_Enable'
-	PropertyValue = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_18\Object\AlertObject\Property_7]
-	PropertyName = '_Email_Subject'
-	PropertyValue = 'MultiCharts64 Alert'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_18\Object\Coordinate]
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_18\Object\Coord_A]
 	BarNumber = '0'
-	Price = '4387,5'
+	Price = '5212,9'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_18\Object\Coordinate\DateTime]
-	Ticks = '599266080000000000'
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_18\Object\Coord_A\DateTime]
+	Ticks = '638478972000000000'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_18\Object\Legend\Text]
-	Align = '36'
-	Coord_Index_0 = '-1'
-	CreatedSymbolName = 'P.ES'
-	FontBackColor = '16777215'
-	FontColor = '16711680'
-	Framed = 'False'
-	IsAnchorToBar = '1'
-	Lock = 'False'
-	Status = 'True'
-	Text = '%price%'
-	Transparent = 'True'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_18\Object\Legend\Text\Coordinate]
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_18\Object\Coord_B]
 	BarNumber = '0'
-	Price = '4387,5'
+	Price = '5216,64'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_18\Object\Legend\Text\Coordinate\DateTime]
-	Ticks = '599266080000000000'
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_18\Object\Coord_B\DateTime]
+	Ticks = '638478984000000000'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_18\Object\Legend\Text\Font\Font]
-	Bold = '0'
-	Charset = '0'
-	Italic = '0'
-	Name = 'Arial'
-	Size = '9'
-	Strikethrough = '0'
-	Underline = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_18\Object\Style]
-	Color = '16711680'
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_18\Object\Fill]
+	Color = '14935011'
+	Hatch = '0'
 	Style = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_18\Object\Line]
+	Color = '255'
+	Style = '2'
 	Width = '1'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_19]
-	DrawingType = '1'
-	Number = '4'
+	DrawingType = '13'
+	Number = '2'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_19\Object]
-	Coord_Index_0 = '0'
-	CreatedSymbolName = 'P.ES'
+	Coord_Index_0 = '817'
+	Coord_Index_1 = '817'
+	CreatedSymbolName = '@ES.D'
 	IsAnchorToBar = '1'
 	Lock = 'False'
 	Status = 'True'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_19\Object\AlertObject]
-	AlertEnable = '0'
-	AlertType = '1'
-	PropertyCount = '8'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_19\Object\AlertObject\Property_0]
-	PropertyName = '_Audio_Enable'
-	PropertyValue = '1'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_19\Object\AlertObject\Property_1]
-	PropertyName = '_Audio_Sound'
-	PropertyValue = '1'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_19\Object\AlertObject\Property_2]
-	PropertyName = '_Audio_Sound_File'
-	PropertyValue = 'ding.wav'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_19\Object\AlertObject\Property_3]
-	PropertyName = '_Audio_Sound_Repeat'
-	PropertyValue = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_19\Object\AlertObject\Property_4]
-	PropertyName = '_Visual_Enable'
-	PropertyValue = '1'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_19\Object\AlertObject\Property_5]
-	PropertyName = '_Visual_Timeout'
-	PropertyValue = '5'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_19\Object\AlertObject\Property_6]
-	PropertyName = '_Email_Enable'
-	PropertyValue = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_19\Object\AlertObject\Property_7]
-	PropertyName = '_Email_Subject'
-	PropertyValue = 'MultiCharts64 Alert'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_19\Object\Coordinate]
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_19\Object\Coord_A]
 	BarNumber = '0'
-	Price = '4145,25'
+	Price = '5215,84'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_19\Object\Coordinate\DateTime]
-	Ticks = '599266080000000000'
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_19\Object\Coord_A\DateTime]
+	Ticks = '638478987000000000'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_19\Object\Legend\Text]
-	Align = '36'
-	Coord_Index_0 = '-1'
-	CreatedSymbolName = 'P.ES'
-	FontBackColor = '16777215'
-	FontColor = '16711680'
-	Framed = 'False'
-	IsAnchorToBar = '1'
-	Lock = 'False'
-	Status = 'True'
-	Text = '%price%'
-	Transparent = 'True'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_19\Object\Legend\Text\Coordinate]
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_19\Object\Coord_B]
 	BarNumber = '0'
-	Price = '4145,25'
+	Price = '5213,61'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_19\Object\Legend\Text\Coordinate\DateTime]
-	Ticks = '599266080000000000'
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_19\Object\Coord_B\DateTime]
+	Ticks = '638478993000000000'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_19\Object\Legend\Text\Font\Font]
-	Bold = '0'
-	Charset = '0'
-	Italic = '0'
-	Name = 'Arial'
-	Size = '9'
-	Strikethrough = '0'
-	Underline = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_19\Object\Style]
-	Color = '16711680'
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_19\Object\Fill]
+	Color = '14935011'
+	Hatch = '0'
 	Style = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_19\Object\Line]
+	Color = '255'
+	Style = '2'
 	Width = '1'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_1\Object]
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '0'
+	Coord_Index_1 = '0'
 	CreatedSymbolName = 'P.ES-2023M'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -1341,193 +1235,87 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_2]
 	DrawingType = '3'
-	Number = '2'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_20]
-	DrawingType = '1'
 	Number = '5'
 
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_20]
+	DrawingType = '13'
+	Number = '3'
+
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_20\Object]
-	Coord_Index_0 = '0'
-	CreatedSymbolName = 'P.ES'
+	Coord_Index_0 = '817'
+	Coord_Index_1 = '817'
+	CreatedSymbolName = '@ES.D'
 	IsAnchorToBar = '1'
 	Lock = 'False'
 	Status = 'True'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_20\Object\AlertObject]
-	AlertEnable = '0'
-	AlertType = '1'
-	PropertyCount = '8'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_20\Object\AlertObject\Property_0]
-	PropertyName = '_Audio_Enable'
-	PropertyValue = '1'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_20\Object\AlertObject\Property_1]
-	PropertyName = '_Audio_Sound'
-	PropertyValue = '1'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_20\Object\AlertObject\Property_2]
-	PropertyName = '_Audio_Sound_File'
-	PropertyValue = 'ding.wav'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_20\Object\AlertObject\Property_3]
-	PropertyName = '_Audio_Sound_Repeat'
-	PropertyValue = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_20\Object\AlertObject\Property_4]
-	PropertyName = '_Visual_Enable'
-	PropertyValue = '1'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_20\Object\AlertObject\Property_5]
-	PropertyName = '_Visual_Timeout'
-	PropertyValue = '5'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_20\Object\AlertObject\Property_6]
-	PropertyName = '_Email_Enable'
-	PropertyValue = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_20\Object\AlertObject\Property_7]
-	PropertyName = '_Email_Subject'
-	PropertyValue = 'MultiCharts64 Alert'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_20\Object\Coordinate]
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_20\Object\Coord_A]
 	BarNumber = '0'
-	Price = '4208'
+	Price = '5220,74'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_20\Object\Coordinate\DateTime]
-	Ticks = '599266080000000000'
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_20\Object\Coord_A\DateTime]
+	Ticks = '638478975000000000'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_20\Object\Legend\Text]
-	Align = '36'
-	Coord_Index_0 = '-1'
-	CreatedSymbolName = 'P.ES'
-	FontBackColor = '16777215'
-	FontColor = '16711680'
-	Framed = 'False'
-	IsAnchorToBar = '1'
-	Lock = 'False'
-	Status = 'True'
-	Text = '%price%'
-	Transparent = 'True'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_20\Object\Legend\Text\Coordinate]
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_20\Object\Coord_B]
 	BarNumber = '0'
-	Price = '4208'
+	Price = '5219,05'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_20\Object\Legend\Text\Coordinate\DateTime]
-	Ticks = '599266080000000000'
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_20\Object\Coord_B\DateTime]
+	Ticks = '638478981000000000'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_20\Object\Legend\Text\Font\Font]
-	Bold = '0'
-	Charset = '0'
-	Italic = '0'
-	Name = 'Arial'
-	Size = '9'
-	Strikethrough = '0'
-	Underline = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_20\Object\Style]
-	Color = '16711680'
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_20\Object\Fill]
+	Color = '14935011'
+	Hatch = '0'
 	Style = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_20\Object\Line]
+	Color = '255'
+	Style = '2'
 	Width = '1'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_21]
-	DrawingType = '1'
-	Number = '6'
+	DrawingType = '13'
+	Number = '4'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_21\Object]
-	Coord_Index_0 = '0'
-	CreatedSymbolName = 'P.ES'
+	Coord_Index_0 = '817'
+	Coord_Index_1 = '817'
+	CreatedSymbolName = '@ES.D'
 	IsAnchorToBar = '1'
 	Lock = 'False'
 	Status = 'True'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_21\Object\AlertObject]
-	AlertEnable = '0'
-	AlertType = '1'
-	PropertyCount = '8'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_21\Object\AlertObject\Property_0]
-	PropertyName = '_Audio_Enable'
-	PropertyValue = '1'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_21\Object\AlertObject\Property_1]
-	PropertyName = '_Audio_Sound'
-	PropertyValue = '1'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_21\Object\AlertObject\Property_2]
-	PropertyName = '_Audio_Sound_File'
-	PropertyValue = 'ding.wav'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_21\Object\AlertObject\Property_3]
-	PropertyName = '_Audio_Sound_Repeat'
-	PropertyValue = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_21\Object\AlertObject\Property_4]
-	PropertyName = '_Visual_Enable'
-	PropertyValue = '1'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_21\Object\AlertObject\Property_5]
-	PropertyName = '_Visual_Timeout'
-	PropertyValue = '5'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_21\Object\AlertObject\Property_6]
-	PropertyName = '_Email_Enable'
-	PropertyValue = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_21\Object\AlertObject\Property_7]
-	PropertyName = '_Email_Subject'
-	PropertyValue = 'MultiCharts64 Alert'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_21\Object\Coordinate]
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_21\Object\Coord_A]
 	BarNumber = '0'
-	Price = '4211,25'
+	Price = '5219,94'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_21\Object\Coordinate\DateTime]
-	Ticks = '599266080000000000'
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_21\Object\Coord_A\DateTime]
+	Ticks = '638478990000000000'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_21\Object\Legend\Text]
-	Align = '36'
-	Coord_Index_0 = '-1'
-	CreatedSymbolName = 'P.ES'
-	FontBackColor = '16777215'
-	FontColor = '16711680'
-	Framed = 'False'
-	IsAnchorToBar = '1'
-	Lock = 'False'
-	Status = 'True'
-	Text = '%price%'
-	Transparent = 'True'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_21\Object\Legend\Text\Coordinate]
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_21\Object\Coord_B]
 	BarNumber = '0'
-	Price = '4211,25'
+	Price = '5217,98'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_21\Object\Legend\Text\Coordinate\DateTime]
-	Ticks = '599266080000000000'
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_21\Object\Coord_B\DateTime]
+	Ticks = '638478984000000000'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_21\Object\Legend\Text\Font\Font]
-	Bold = '0'
-	Charset = '0'
-	Italic = '0'
-	Name = 'Arial'
-	Size = '9'
-	Strikethrough = '0'
-	Underline = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_21\Object\Style]
-	Color = '16711680'
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_21\Object\Fill]
+	Color = '14935011'
+	Hatch = '0'
 	Style = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_21\Object\Line]
+	Color = '255'
+	Style = '2'
 	Width = '1'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22]
 	DrawingType = '13'
-	Number = '1'
+	Number = '5'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object]
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '817'
+	Coord_Index_1 = '817'
 	CreatedSymbolName = '@ES.D'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -1535,17 +1323,17 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\Coord_A]
 	BarNumber = '0'
-	Price = '5212,9'
+	Price = '5219,76'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\Coord_A\DateTime]
-	Ticks = '638478972000000000'
+	Ticks = '638478987000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\Coord_B]
 	BarNumber = '0'
-	Price = '5216,64'
+	Price = '5217,44'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\Coord_B\DateTime]
-	Ticks = '638478984000000000'
+	Ticks = '638478990000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\Fill]
 	Color = '14935011'
@@ -1559,11 +1347,11 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_23]
 	DrawingType = '13'
-	Number = '2'
+	Number = '6'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_23\Object]
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '817'
+	Coord_Index_1 = '817'
 	CreatedSymbolName = '@ES.D'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -1571,17 +1359,17 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_23\Object\Coord_A]
 	BarNumber = '0'
-	Price = '5215,84'
+	Price = '5244,65'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_23\Object\Coord_A\DateTime]
-	Ticks = '638478987000000000'
+	Ticks = '638479014000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_23\Object\Coord_B]
 	BarNumber = '0'
-	Price = '5213,61'
+	Price = '5242,87'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_23\Object\Coord_B\DateTime]
-	Ticks = '638478993000000000'
+	Ticks = '638479023000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_23\Object\Fill]
 	Color = '14935011'
@@ -1595,11 +1383,11 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_24]
 	DrawingType = '13'
-	Number = '3'
+	Number = '7'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_24\Object]
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '817'
+	Coord_Index_1 = '817'
 	CreatedSymbolName = '@ES.D'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -1607,17 +1395,17 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_24\Object\Coord_A]
 	BarNumber = '0'
-	Price = '5220,74'
+	Price = '5238,59'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_24\Object\Coord_A\DateTime]
-	Ticks = '638478975000000000'
+	Ticks = '638479011000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_24\Object\Coord_B]
 	BarNumber = '0'
-	Price = '5219,05'
+	Price = '5236,62'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_24\Object\Coord_B\DateTime]
-	Ticks = '638478981000000000'
+	Ticks = '638479017000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_24\Object\Fill]
 	Color = '14935011'
@@ -1631,11 +1419,11 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_25]
 	DrawingType = '13'
-	Number = '4'
+	Number = '8'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_25\Object]
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '817'
+	Coord_Index_1 = '817'
 	CreatedSymbolName = '@ES.D'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -1643,17 +1431,17 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_25\Object\Coord_A]
 	BarNumber = '0'
-	Price = '5219,94'
+	Price = '5260,8'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_25\Object\Coord_A\DateTime]
-	Ticks = '638478990000000000'
+	Ticks = '638479047000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_25\Object\Coord_B]
 	BarNumber = '0'
-	Price = '5217,98'
+	Price = '5258,92'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_25\Object\Coord_B\DateTime]
-	Ticks = '638478984000000000'
+	Ticks = '638479053000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_25\Object\Fill]
 	Color = '14935011'
@@ -1667,11 +1455,11 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_26]
 	DrawingType = '13'
-	Number = '5'
+	Number = '9'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_26\Object]
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '817'
+	Coord_Index_1 = '817'
 	CreatedSymbolName = '@ES.D'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -1679,17 +1467,17 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_26\Object\Coord_A]
 	BarNumber = '0'
-	Price = '5219,76'
+	Price = '5268,35'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_26\Object\Coord_A\DateTime]
-	Ticks = '638478987000000000'
+	Ticks = '638479053000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_26\Object\Coord_B]
 	BarNumber = '0'
-	Price = '5217,44'
+	Price = '5266,79'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_26\Object\Coord_B\DateTime]
-	Ticks = '638478990000000000'
+	Ticks = '638479059000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_26\Object\Fill]
 	Color = '14935011'
@@ -1703,11 +1491,11 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_27]
 	DrawingType = '13'
-	Number = '6'
+	Number = '10'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_27\Object]
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '817'
+	Coord_Index_1 = '817'
 	CreatedSymbolName = '@ES.D'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -1715,17 +1503,17 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_27\Object\Coord_A]
 	BarNumber = '0'
-	Price = '5244,65'
+	Price = '5265,48'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_27\Object\Coord_A\DateTime]
-	Ticks = '638479014000000000'
+	Ticks = '638479098000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_27\Object\Coord_B]
 	BarNumber = '0'
-	Price = '5242,87'
+	Price = '5262,36'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_27\Object\Coord_B\DateTime]
-	Ticks = '638479023000000000'
+	Ticks = '638479104000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_27\Object\Fill]
 	Color = '14935011'
@@ -1739,11 +1527,11 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_28]
 	DrawingType = '13'
-	Number = '7'
+	Number = '11'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_28\Object]
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '817'
+	Coord_Index_1 = '817'
 	CreatedSymbolName = '@ES.D'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -1751,17 +1539,17 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_28\Object\Coord_A]
 	BarNumber = '0'
-	Price = '5238,59'
+	Price = '5501,09'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_28\Object\Coord_A\DateTime]
-	Ticks = '638479011000000000'
+	Ticks = '638539476000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_28\Object\Coord_B]
 	BarNumber = '0'
-	Price = '5236,62'
+	Price = '5468,75'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_28\Object\Coord_B\DateTime]
-	Ticks = '638479017000000000'
+	Ticks = '638539536000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_28\Object\Fill]
 	Color = '14935011'
@@ -1775,29 +1563,29 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_29]
 	DrawingType = '13'
-	Number = '8'
+	Number = '12'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_29\Object]
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
-	CreatedSymbolName = '@ES.D'
+	Coord_Index_0 = '817'
+	Coord_Index_1 = '817'
+	CreatedSymbolName = 'P.ES'
 	IsAnchorToBar = '1'
 	Lock = 'False'
 	Status = 'True'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_29\Object\Coord_A]
 	BarNumber = '0'
-	Price = '5260,8'
+	Price = '5284,0687'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_29\Object\Coord_A\DateTime]
-	Ticks = '638479047000000000'
+	Ticks = '638484231000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_29\Object\Coord_B]
 	BarNumber = '0'
-	Price = '5258,92'
+	Price = '5260,1166'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_29\Object\Coord_B\DateTime]
-	Ticks = '638479053000000000'
+	Ticks = '638484249000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_29\Object\Fill]
 	Color = '14935011'
@@ -1810,8 +1598,8 @@
 	Width = '1'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_2\Object]
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '0'
+	Coord_Index_1 = '0'
 	CreatedSymbolName = 'P.ES-2023M'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -2034,29 +1822,29 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_30]
 	DrawingType = '13'
-	Number = '9'
+	Number = '13'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_30\Object]
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
-	CreatedSymbolName = '@ES.D'
+	Coord_Index_0 = '817'
+	Coord_Index_1 = '817'
+	CreatedSymbolName = 'P.ES'
 	IsAnchorToBar = '1'
 	Lock = 'False'
 	Status = 'True'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_30\Object\Coord_A]
 	BarNumber = '0'
-	Price = '5268,35'
+	Price = '5149,9444'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_30\Object\Coord_A\DateTime]
-	Ticks = '638479053000000000'
+	Ticks = '638435787000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_30\Object\Coord_B]
 	BarNumber = '0'
-	Price = '5266,79'
+	Price = '5141,4419'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_30\Object\Coord_B\DateTime]
-	Ticks = '638479059000000000'
+	Ticks = '638435796000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_30\Object\Fill]
 	Color = '14935011'
@@ -2068,154 +1856,10 @@
 	Style = '2'
 	Width = '1'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_31]
-	DrawingType = '13'
-	Number = '10'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_31\Object]
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
-	CreatedSymbolName = '@ES.D'
-	IsAnchorToBar = '1'
-	Lock = 'False'
-	Status = 'True'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_31\Object\Coord_A]
-	BarNumber = '0'
-	Price = '5265,48'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_31\Object\Coord_A\DateTime]
-	Ticks = '638479098000000000'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_31\Object\Coord_B]
-	BarNumber = '0'
-	Price = '5262,36'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_31\Object\Coord_B\DateTime]
-	Ticks = '638479104000000000'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_31\Object\Fill]
-	Color = '14935011'
-	Hatch = '0'
-	Style = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_31\Object\Line]
-	Color = '255'
-	Style = '2'
-	Width = '1'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_32]
-	DrawingType = '13'
-	Number = '11'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_32\Object]
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
-	CreatedSymbolName = '@ES.D'
-	IsAnchorToBar = '1'
-	Lock = 'False'
-	Status = 'True'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_32\Object\Coord_A]
-	BarNumber = '0'
-	Price = '5501,09'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_32\Object\Coord_A\DateTime]
-	Ticks = '638539476000000000'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_32\Object\Coord_B]
-	BarNumber = '0'
-	Price = '5468,75'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_32\Object\Coord_B\DateTime]
-	Ticks = '638539536000000000'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_32\Object\Fill]
-	Color = '14935011'
-	Hatch = '0'
-	Style = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_32\Object\Line]
-	Color = '255'
-	Style = '2'
-	Width = '1'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_33]
-	DrawingType = '13'
-	Number = '12'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_33\Object]
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
-	CreatedSymbolName = 'P.ES'
-	IsAnchorToBar = '1'
-	Lock = 'False'
-	Status = 'True'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_33\Object\Coord_A]
-	BarNumber = '0'
-	Price = '5284,0687'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_33\Object\Coord_A\DateTime]
-	Ticks = '638484231000000000'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_33\Object\Coord_B]
-	BarNumber = '0'
-	Price = '5260,1166'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_33\Object\Coord_B\DateTime]
-	Ticks = '638484249000000000'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_33\Object\Fill]
-	Color = '14935011'
-	Hatch = '0'
-	Style = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_33\Object\Line]
-	Color = '255'
-	Style = '2'
-	Width = '1'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_34]
-	DrawingType = '13'
-	Number = '13'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_34\Object]
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
-	CreatedSymbolName = 'P.ES'
-	IsAnchorToBar = '1'
-	Lock = 'False'
-	Status = 'True'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_34\Object\Coord_A]
-	BarNumber = '0'
-	Price = '5149,9444'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_34\Object\Coord_A\DateTime]
-	Ticks = '638435787000000000'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_34\Object\Coord_B]
-	BarNumber = '0'
-	Price = '5141,4419'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_34\Object\Coord_B\DateTime]
-	Ticks = '638435796000000000'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_34\Object\Fill]
-	Color = '14935011'
-	Hatch = '0'
-	Style = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_34\Object\Line]
-	Color = '255'
-	Style = '2'
-	Width = '1'
-
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_3\Object]
 	Calculation = '0'
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '0'
+	Coord_Index_1 = '0'
 	CreatedSymbolName = 'P.ES-2023M'
 	FixedPoint = '0'
 	IsAnchorToBar = '1'
@@ -2289,8 +1933,8 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_4\Object]
 	Calculation = '0'
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '817'
+	Coord_Index_1 = '817'
 	CreatedSymbolName = '@ES.D'
 	FixedPoint = '0'
 	IsAnchorToBar = '1'
@@ -2364,8 +2008,8 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_5\Object]
 	Calculation = '0'
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '817'
+	Coord_Index_1 = '817'
 	CreatedSymbolName = '@ES.D'
 	FixedPoint = '0'
 	IsAnchorToBar = '1'
@@ -2439,8 +2083,8 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_6\Object]
 	Calculation = '0'
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '817'
+	Coord_Index_1 = '817'
 	CreatedSymbolName = '@ES.D'
 	FixedPoint = '0'
 	IsAnchorToBar = '1'
@@ -2514,8 +2158,8 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_7\Object]
 	Calculation = '0'
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '817'
+	Coord_Index_1 = '817'
 	CreatedSymbolName = '@ES.D'
 	FixedPoint = '0'
 	IsAnchorToBar = '1'
@@ -2589,8 +2233,8 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_8\Object]
 	Calculation = '0'
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '817'
+	Coord_Index_1 = '817'
 	CreatedSymbolName = '@ES.D'
 	FixedPoint = '0'
 	IsAnchorToBar = '1'
@@ -2664,8 +2308,8 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_9\Object]
 	Calculation = '0'
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '817'
+	Coord_Index_1 = '817'
 	CreatedSymbolName = '@ES.D'
 	FixedPoint = '0'
 	IsAnchorToBar = '1'
@@ -2745,15 +2389,15 @@
 	ManualMode = '0'
 	MarginBottom = '5'
 	MarginTop = '5'
-	Maximum = '909,916666666667'
-	Minimum = '871,583333333333'
+	Maximum = '4420,64632531376'
+	Minimum = '4367,59076975821'
 	MovementSize.Long = '1'
 	MovementSize.Metric = 'False'
 	MovementSize.Price = '5'
 	OverlayDataSeries = 'False'
 	PriceRange.Above = '1,79769313486232E+308'
 	PriceRange.Below = '1,79769313486232E+308'
-	ScaleType = '0'
+	ScaleType = '2'
 	UseMargins = '1'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\LabelProcessingObject]
@@ -4342,24 +3986,93 @@
 	UserBarMode = '0'
 	UserBarRef = '50'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_10\IndicatorHelper\InputHelper\Input_Displace]
-	Value = '0'
+[Wsp\Window_0\ChartManager\Chart_0\Series_10\IndicatorHelper\InputHelper\Input_Price]
+	Value = 'typicalprice'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_10\IndicatorHelper\InputHelper\Input_Length]
+[Wsp\Window_0\ChartManager\Chart_0\Series_10\IndicatorHelper\InputHelper\Input_Version.07]
+	Value = '202308019'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_10\IndicatorHelper\InputHelper\Input__DebugON]
+	Value = 'false'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_10\IndicatorHelper\InputHelper\Input_bearStrongTrendColorDefault]
+	Value = 'rgb(255,128,0)'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_10\IndicatorHelper\InputHelper\Input_bearStrongTrendWidthDefault]
+	Value = '6'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_10\IndicatorHelper\InputHelper\Input_bearTrendColorDefault]
+	Value = 'rgb(255,0,0)'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_10\IndicatorHelper\InputHelper\Input_bullStrongTrendColorDefault]
+	Value = 'rgb(0,220,0)'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_10\IndicatorHelper\InputHelper\Input_bullStrongTrendWidthDefault]
+	Value = '6'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_10\IndicatorHelper\InputHelper\Input_bullTrendColorDefault]
+	Value = 'rgb(0,128,0)'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_10\IndicatorHelper\InputHelper\Input_colorDefault]
+	Value = 'rgb(0,128,255)'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_10\IndicatorHelper\InputHelper\Input_endTime]
+	Value = '1315'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_10\IndicatorHelper\InputHelper\Input_length]
 	Value = '20'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_10\IndicatorHelper\InputHelper\Input_Price]
-	Value = 'close'
+[Wsp\Window_0\ChartManager\Chart_0\Series_10\IndicatorHelper\InputHelper\Input_slopeMALength]
+	Value = '5'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_10\IndicatorHelper\InputHelper\Input_startTime]
+	Value = '635'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_10\IndicatorHelper\InputHelper\Input_strongTrendAngle]
+	Value = '35'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_10\IndicatorHelper\InputHelper\Input_trendAngle]
+	Value = '25'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_10\IndicatorHelper\InputHelper\Input_trendWidth]
+	Value = '2'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_10\IndicatorHelper\InputHelper\Input_useColor]
+	Value = 'true'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_10\IndicatorHelper\PlotHelper\Plot_1]
 	DefAlign = '2'
 	DefBKColor = '0'
-	DefColor = '16711680'
-	DefColor2 = '255'
+	DefColor = '0'
+	DefColor2 = '32768'
 	DefDecimals = '5'
 	DefFormat = '1'
 	DefShowLastPriceMarker = '-1'
-	DefStyle = '2'
+	DefStyle = '0'
+	DefWidth = '4'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_10\IndicatorHelper\PlotHelper\Plot_2]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '16711680'
+	DefColor2 = '16711680'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_10\IndicatorHelper\PlotHelper\Plot_3]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '16776960'
+	DefColor2 = '16776960'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
 	DefWidth = '0'
 	PlotType = '0'
 
@@ -4407,7 +4120,7 @@
 	Suffix = 'b'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_10\ShortTechInfo]
-	IdName = 'ib_Movb20Avgb20Exponential'
+	IdName = 'i_AO_MA_ARC'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_10\VolumeObject]
 	VolumeBarWidth = '1'
@@ -4421,7 +4134,7 @@
 	DrawingsCount = '0'
 	InvisibleSubChart = '0'
 	SeriesType = '0'
-	Status = '1'
+	Status = '0'
 	UpdateOnEveryTick = '1'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_11\AlertObject]
@@ -4474,303 +4187,24 @@
 	UserBarMode = '0'
 	UserBarRef = '50'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\InputHelper\Input_Instance]
-	Value = '1'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\InputHelper\Input_Length]
-	Value = '10'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\InputHelper\Input_Sigma1_Color_Bl]
-	Value = 'rgb(152,251,152)'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\InputHelper\Input_Sigma1_Color_Br]
-	Value = 'rgb(255,160,122)'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\InputHelper\Input_Sigma2_Color_Bl]
-	Value = 'rgb(0,250,154)'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\InputHelper\Input_Sigma2_Color_Br]
-	Value = 'rgb(250,128,114)'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\InputHelper\Input_Sigma3_Color_Bl]
-	Value = 'rgb(60,179,113)'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\InputHelper\Input_Sigma3_Color_Br]
-	Value = 'rgb(255,69,0)'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\InputHelper\Input_Sigma4_Color_Bl]
-	Value = 'rgb(0,100,0)'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\InputHelper\Input_Sigma4_Color_Br]
-	Value = 'rgb(178,34,34)'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\InputHelper\Input_Strength]
-	Value = '2'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\InputHelper\Input_Version.05]
-	Value = '20230717'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\InputHelper\Input__CXfactor]
-	Value = '1.8'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\InputHelper\Input_________ZBars_______]
-	Value = '"Section ZBars"'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\InputHelper\Input_activateReversalLogic]
+[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\InputHelper\Input_Displace]
 	Value = '0'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\InputHelper\Input_bearDistanceRangeShortCutoffDefault]
-	Value = '3.0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\InputHelper\Input_bearDistanceRangeShortCutoffReverse]
-	Value = '3.8'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\InputHelper\Input_displayIfFinalPercentGreaterThanPercent]
-	Value = '65'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\InputHelper\Input_distanceRangeLow]
-	Value = '0.50'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\InputHelper\Input_distanceRangeShortCutoffDefault]
-	Value = '3.4'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\InputHelper\Input_distanceRangeShortCutoffReverse]
-	Value = '3.8'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\InputHelper\Input_estTimeOffset]
-	Value = '300'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\InputHelper\Input_oneTickValue]
-	Value = '0.0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\InputHelper\Input_showSigma1]
-	Value = 'true'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\InputHelper\Input_showSigma2]
-	Value = 'true'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\InputHelper\Input_showSigma3]
-	Value = 'true'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\InputHelper\Input_showSigma4]
-	Value = 'true'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\InputHelper\Input_showSigma5]
-	Value = 'true'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\InputHelper\Input_slopeLength]
+[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\InputHelper\Input_Length]
 	Value = '20'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\InputHelper\Input_stdevInput]
-	Value = '1'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\InputHelper\Input_useRangeForZbars]
-	Value = 'false'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\InputHelper\Input_zBarLength]
-	Value = '20'
+[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\InputHelper\Input_Price]
+	Value = 'close'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\PlotHelper\Plot_1]
 	DefAlign = '2'
 	DefBKColor = '0'
-	DefColor = '0'
-	DefColor2 = '32768'
-	DefDecimals = '5'
-	DefFormat = '6'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\PlotHelper\Plot_10]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '0'
-	DefColor2 = '32896'
-	DefDecimals = '5'
-	DefFormat = '6'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\PlotHelper\Plot_11]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '0'
-	DefColor2 = '0'
-	DefDecimals = '5'
-	DefFormat = '6'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\PlotHelper\Plot_12]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '0'
-	DefColor2 = '0'
-	DefDecimals = '5'
-	DefFormat = '6'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\PlotHelper\Plot_13]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '0'
-	DefColor2 = '32768'
-	DefDecimals = '5'
-	DefFormat = '6'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\PlotHelper\Plot_14]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '0'
-	DefColor2 = '32896'
-	DefDecimals = '5'
-	DefFormat = '6'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\PlotHelper\Plot_15]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '4278255615'
-	DefColor2 = '0'
+	DefColor = '16711680'
+	DefColor2 = '255'
 	DefDecimals = '5'
 	DefFormat = '1'
 	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\PlotHelper\Plot_16]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '4294967040'
-	DefColor2 = '0'
-	DefDecimals = '5'
-	DefFormat = '6'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\PlotHelper\Plot_17]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '4278190335'
-	DefColor2 = '32768'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\PlotHelper\Plot_18]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '4294901760'
-	DefColor2 = '32896'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\PlotHelper\Plot_19]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '4278255615'
-	DefColor2 = '0'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\PlotHelper\Plot_2]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '0'
-	DefColor2 = '32896'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\PlotHelper\Plot_20]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '4294967040'
-	DefColor2 = '0'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\PlotHelper\Plot_3]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '0'
-	DefColor2 = '0'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\PlotHelper\Plot_4]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '0'
-	DefColor2 = '0'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\PlotHelper\Plot_5]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '0'
-	DefColor2 = '32768'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_11\IndicatorHelper\PlotHelper\Plot_6]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '0'
-	DefColor2 = '32896'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
+	DefStyle = '2'
 	DefWidth = '0'
 	PlotType = '0'
 
@@ -4785,21 +4219,21 @@
 	ManualMode = '0'
 	MarginBottom = '5'
 	MarginTop = '5'
-	Maximum = '120'
-	Minimum = '-240'
+	Maximum = '4971,43055555556'
+	Minimum = '4902,81944444444'
 	MovementSize.Long = '1'
 	MovementSize.Metric = 'False'
 	MovementSize.Price = '5'
 	OverlayDataSeries = 'False'
 	PriceRange.Above = '1,79769313486232E+308'
 	PriceRange.Below = '1,79769313486232E+308'
-	ScaleType = '0'
+	ScaleType = '3'
 	UseMargins = '0'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_11\LabelProcessingObject]
 	AutoMode = '1'
 	EnableProcessing = '0'
-	PriceScaleType = '2'
+	PriceScaleType = '111'
 	SelectedId = '0'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_11\LabelProcessingObject\Item 0]
@@ -4818,7 +4252,7 @@
 	Suffix = 'b'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_11\ShortTechInfo]
-	IdName = 'i_AO_StatsProprietory'
+	IdName = 'ib_Movb20Avgb20Exponential'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_11\VolumeObject]
 	VolumeBarWidth = '1'
@@ -4832,7 +4266,7 @@
 	DrawingsCount = '0'
 	InvisibleSubChart = '0'
 	SeriesType = '0'
-	Status = '0'
+	Status = '1'
 	UpdateOnEveryTick = '1'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_12\AlertObject]
@@ -4885,41 +4319,305 @@
 	UserBarMode = '0'
 	UserBarRef = '50'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_Version.357]
-	Value = '20240511.357'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_gapTextColor]
-	Value = 'rgb(30,144,255)'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_gapsBarsInSession]
-	Value = '81'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_gapsColorYesterdayHiLow]
-	Value = 'rgb(255,153,255)'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_gapsDrawYesterdayHiLow]
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_Instance]
 	Value = '1'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_gapsEvictHighestGapAfterDays]
-	Value = '21'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_gapsFontFace]
-	Value = '"Arial"'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_gapsFontSize]
-	Value = '9'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_gapsLargeRangeThresholdPercent]
-	Value = '70'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_gapsPrevPrice]
-	Value = 'c'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_gapsSmallRangeThresholdPercent]
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_Length]
 	Value = '10'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_gapsTextLocation]
-	Value = 'l - 2.5*lowest(range,5)-3'
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_Sigma1_Color_Bl]
+	Value = 'rgb(152,251,152)'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_Sigma1_Color_Br]
+	Value = 'rgb(255,160,122)'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_Sigma2_Color_Bl]
+	Value = 'rgb(0,250,154)'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_Sigma2_Color_Br]
+	Value = 'rgb(250,128,114)'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_Sigma3_Color_Bl]
+	Value = 'rgb(60,179,113)'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_Sigma3_Color_Br]
+	Value = 'rgb(255,69,0)'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_Sigma4_Color_Bl]
+	Value = 'rgb(0,100,0)'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_Sigma4_Color_Br]
+	Value = 'rgb(178,34,34)'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_Strength]
+	Value = '2'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_Version.05]
+	Value = '20230717'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input__CXfactor]
+	Value = '1.8'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_________ZBars_______]
+	Value = '"Section ZBars"'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_activateReversalLogic]
+	Value = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_bearDistanceRangeShortCutoffDefault]
+	Value = '3.0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_bearDistanceRangeShortCutoffReverse]
+	Value = '3.8'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_displayIfFinalPercentGreaterThanPercent]
+	Value = '65'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_distanceRangeLow]
+	Value = '0.50'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_distanceRangeShortCutoffDefault]
+	Value = '3.4'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_distanceRangeShortCutoffReverse]
+	Value = '3.8'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_estTimeOffset]
+	Value = '300'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_oneTickValue]
+	Value = '0.0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_showSigma1]
+	Value = 'true'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_showSigma2]
+	Value = 'true'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_showSigma3]
+	Value = 'true'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_showSigma4]
+	Value = 'true'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_showSigma5]
+	Value = 'true'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_slopeLength]
+	Value = '20'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_stdevInput]
+	Value = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_useRangeForZbars]
+	Value = 'false'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\InputHelper\Input_zBarLength]
+	Value = '20'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\PlotHelper\Plot_1]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '0'
+	DefColor2 = '32768'
+	DefDecimals = '5'
+	DefFormat = '6'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\PlotHelper\Plot_10]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '0'
+	DefColor2 = '32896'
+	DefDecimals = '5'
+	DefFormat = '6'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\PlotHelper\Plot_11]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '0'
+	DefColor2 = '0'
+	DefDecimals = '5'
+	DefFormat = '6'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\PlotHelper\Plot_12]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '0'
+	DefColor2 = '0'
+	DefDecimals = '5'
+	DefFormat = '6'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\PlotHelper\Plot_13]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '0'
+	DefColor2 = '32768'
+	DefDecimals = '5'
+	DefFormat = '6'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\PlotHelper\Plot_14]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '0'
+	DefColor2 = '32896'
+	DefDecimals = '5'
+	DefFormat = '6'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\PlotHelper\Plot_15]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '4278255615'
+	DefColor2 = '0'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\PlotHelper\Plot_16]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '4294967040'
+	DefColor2 = '0'
+	DefDecimals = '5'
+	DefFormat = '6'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\PlotHelper\Plot_17]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '4278190335'
+	DefColor2 = '32768'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\PlotHelper\Plot_18]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '4294901760'
+	DefColor2 = '32896'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\PlotHelper\Plot_19]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '4278255615'
+	DefColor2 = '0'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\PlotHelper\Plot_2]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '0'
+	DefColor2 = '32896'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\PlotHelper\Plot_20]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '4294967040'
+	DefColor2 = '0'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\PlotHelper\Plot_3]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '0'
+	DefColor2 = '0'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\PlotHelper\Plot_4]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '0'
+	DefColor2 = '0'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\PlotHelper\Plot_5]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '0'
+	DefColor2 = '32768'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_12\IndicatorHelper\PlotHelper\Plot_6]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '0'
+	DefColor2 = '32896'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_12\IntervalObject]
 	AxisType = '0'
@@ -4932,21 +4630,21 @@
 	ManualMode = '0'
 	MarginBottom = '5'
 	MarginTop = '5'
-	Maximum = '5726,7643091028'
-	Minimum = '5647,39534408916'
+	Maximum = '120'
+	Minimum = '-205'
 	MovementSize.Long = '1'
 	MovementSize.Metric = 'False'
 	MovementSize.Price = '5'
 	OverlayDataSeries = 'False'
 	PriceRange.Above = '1,79769313486232E+308'
 	PriceRange.Below = '1,79769313486232E+308'
-	ScaleType = '3'
+	ScaleType = '0'
 	UseMargins = '0'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_12\LabelProcessingObject]
 	AutoMode = '1'
 	EnableProcessing = '0'
-	PriceScaleType = '111'
+	PriceScaleType = '2'
 	SelectedId = '0'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_12\LabelProcessingObject\Item 0]
@@ -4965,7 +4663,7 @@
 	Suffix = 'b'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_12\ShortTechInfo]
-	IdName = 'i_AO_GapMaker_MC_TS_3_5_6'
+	IdName = 'i_AO_StatsProprietory'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_12\VolumeObject]
 	VolumeBarWidth = '1'
@@ -4979,7 +4677,7 @@
 	DrawingsCount = '0'
 	InvisibleSubChart = '0'
 	SeriesType = '0'
-	Status = '1'
+	Status = '0'
 	UpdateOnEveryTick = '1'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_13\AlertObject]
@@ -5032,35 +4730,41 @@
 	UserBarMode = '0'
 	UserBarRef = '50'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_13\IndicatorHelper\InputHelper\Input_Version.3]
-	Value = '20230604'
+[Wsp\Window_0\ChartManager\Chart_0\Series_13\IndicatorHelper\InputHelper\Input_Version.357]
+	Value = '20240511.357'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_13\IndicatorHelper\InputHelper\Input_colorText]
-	Value = 'black'
+[Wsp\Window_0\ChartManager\Chart_0\Series_13\IndicatorHelper\InputHelper\Input_gapTextColor]
+	Value = 'rgb(30,144,255)'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_13\IndicatorHelper\InputHelper\Input_fontName]
+[Wsp\Window_0\ChartManager\Chart_0\Series_13\IndicatorHelper\InputHelper\Input_gapsBarsInSession]
+	Value = '81'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_13\IndicatorHelper\InputHelper\Input_gapsColorYesterdayHiLow]
+	Value = 'rgb(255,153,255)'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_13\IndicatorHelper\InputHelper\Input_gapsDrawYesterdayHiLow]
+	Value = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_13\IndicatorHelper\InputHelper\Input_gapsEvictHighestGapAfterDays]
+	Value = '21'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_13\IndicatorHelper\InputHelper\Input_gapsFontFace]
 	Value = '"Arial"'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_13\IndicatorHelper\InputHelper\Input_fontSize]
-	Value = '12'
+[Wsp\Window_0\ChartManager\Chart_0\Series_13\IndicatorHelper\InputHelper\Input_gapsFontSize]
+	Value = '9'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_13\IndicatorHelper\InputHelper\Input_labelEtraTextFirst]
-	Value = '1'
+[Wsp\Window_0\ChartManager\Chart_0\Series_13\IndicatorHelper\InputHelper\Input_gapsLargeRangeThresholdPercent]
+	Value = '70'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_13\IndicatorHelper\InputHelper\Input_labelExtraText]
-	Value = '""'
+[Wsp\Window_0\ChartManager\Chart_0\Series_13\IndicatorHelper\InputHelper\Input_gapsPrevPrice]
+	Value = 'c'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_13\IndicatorHelper\InputHelper\Input_showAsUpperString]
-	Value = '1'
+[Wsp\Window_0\ChartManager\Chart_0\Series_13\IndicatorHelper\InputHelper\Input_gapsSmallRangeThresholdPercent]
+	Value = '10'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_13\IndicatorHelper\InputHelper\Input_showLabelExtraText]
-	Value = '1'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_13\IndicatorHelper\InputHelper\Input_textHorizontalLocation]
-	Value = 'time+20'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_13\IndicatorHelper\InputHelper\Input_textLocation]
-	Value = 'h + 2.5*highest(range,5)'
+[Wsp\Window_0\ChartManager\Chart_0\Series_13\IndicatorHelper\InputHelper\Input_gapsTextLocation]
+	Value = 'l - 2.5*lowest(range,5)-3'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_13\IntervalObject]
 	AxisType = '0'
@@ -5073,8 +4777,8 @@
 	ManualMode = '0'
 	MarginBottom = '5'
 	MarginTop = '5'
-	Maximum = '909,916666666667'
-	Minimum = '871,583333333333'
+	Maximum = '4971,43055555556'
+	Minimum = '4902,81944444444'
 	MovementSize.Long = '1'
 	MovementSize.Metric = 'False'
 	MovementSize.Price = '5'
@@ -5106,7 +4810,7 @@
 	Suffix = 'b'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_13\ShortTechInfo]
-	IdName = 'i_AO_DateMaker_MC'
+	IdName = 'i_AO_GapMaker_MC_TS_3_5_6'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_13\VolumeObject]
 	VolumeBarWidth = '1'
@@ -5641,8 +5345,8 @@
 	ManualMode = '0'
 	MarginBottom = '5'
 	MarginTop = '5'
-	Maximum = '909,916666666667'
-	Minimum = '871,583333333333'
+	Maximum = '4420,64632531376'
+	Minimum = '4367,59076975821'
 	MovementSize.Long = '1'
 	MovementSize.Metric = 'False'
 	MovementSize.Price = '5'
@@ -5688,7 +5392,7 @@
 	DrawingsCount = '0'
 	InvisibleSubChart = '0'
 	SeriesType = '0'
-	Status = '0'
+	Status = '1'
 	UpdateOnEveryTick = '1'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_4\AlertObject]
@@ -5741,383 +5445,35 @@
 	UserBarMode = '0'
 	UserBarRef = '50'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\InputHelper\Input_Instance]
+[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\InputHelper\Input_Version.3]
+	Value = '20230604'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\InputHelper\Input_colorText]
+	Value = 'black'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\InputHelper\Input_fontName]
+	Value = '"Arial"'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\InputHelper\Input_fontSize]
+	Value = '12'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\InputHelper\Input_labelEtraTextFirst]
 	Value = '1'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\InputHelper\Input_Length]
-	Value = '10'
+[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\InputHelper\Input_labelExtraText]
+	Value = '""'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\InputHelper\Input_Strength]
-	Value = '2'
+[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\InputHelper\Input_showAsUpperString]
+	Value = '1'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\InputHelper\Input_Version.05]
-	Value = '20230717'
+[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\InputHelper\Input_showLabelExtraText]
+	Value = '1'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\InputHelper\Input_estTimeOffset]
-	Value = '300'
+[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\InputHelper\Input_textHorizontalLocation]
+	Value = 'time+20'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\InputHelper\Input_oneTickValue]
-	Value = '0.0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\PlotHelper\Plot_1]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '16777215'
-	DefColor2 = '32768'
-	DefDecimals = '5'
-	DefFormat = '6'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\PlotHelper\Plot_10]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '4294901760'
-	DefColor2 = '32896'
-	DefDecimals = '5'
-	DefFormat = '6'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\PlotHelper\Plot_11]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '4278255615'
-	DefColor2 = '0'
-	DefDecimals = '5'
-	DefFormat = '6'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\PlotHelper\Plot_12]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '4294967040'
-	DefColor2 = '0'
-	DefDecimals = '5'
-	DefFormat = '6'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\PlotHelper\Plot_13]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '4278190335'
-	DefColor2 = '32768'
-	DefDecimals = '5'
-	DefFormat = '6'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\PlotHelper\Plot_14]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '4294901760'
-	DefColor2 = '32896'
-	DefDecimals = '5'
-	DefFormat = '6'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\PlotHelper\Plot_15]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '4278255615'
-	DefColor2 = '0'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\PlotHelper\Plot_16]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '4294967040'
-	DefColor2 = '0'
-	DefDecimals = '5'
-	DefFormat = '6'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\PlotHelper\Plot_17]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '4278190335'
-	DefColor2 = '32768'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\PlotHelper\Plot_18]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '4294901760'
-	DefColor2 = '32896'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\PlotHelper\Plot_19]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '4278255615'
-	DefColor2 = '0'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\PlotHelper\Plot_20]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '4294967040'
-	DefColor2 = '0'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\PlotHelper\Plot_3]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '4278255615'
-	DefColor2 = '0'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\PlotHelper\Plot_32]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '0'
-	DefColor2 = '16711680'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\PlotHelper\Plot_33]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '0'
-	DefColor2 = '16776960'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\PlotHelper\Plot_34]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '65535'
-	DefColor2 = '65535'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\PlotHelper\Plot_35]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '0'
-	DefColor2 = '16711935'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\PlotHelper\Plot_39]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '0'
-	DefColor2 = '16776960'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\PlotHelper\Plot_4]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '4294967040'
-	DefColor2 = '0'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\PlotHelper\Plot_40]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '0'
-	DefColor2 = '65535'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\PlotHelper\Plot_41]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '16711935'
-	DefColor2 = '16711935'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\PlotHelper\Plot_42]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '65280'
-	DefColor2 = '65280'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\PlotHelper\Plot_43]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '255'
-	DefColor2 = '255'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\PlotHelper\Plot_44]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '16711680'
-	DefColor2 = '16711680'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\PlotHelper\Plot_45]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '16776960'
-	DefColor2 = '16776960'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\PlotHelper\Plot_5]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '4278190335'
-	DefColor2 = '32768'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\PlotHelper\Plot_6]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '4294901760'
-	DefColor2 = '32896'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\PlotHelper\Plot_7]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '4278255615'
-	DefColor2 = '0'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\PlotHelper\Plot_8]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '4294967040'
-	DefColor2 = '0'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\PlotHelper\Plot_9]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '4278190335'
-	DefColor2 = '32768'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
+[Wsp\Window_0\ChartManager\Chart_0\Series_4\IndicatorHelper\InputHelper\Input_textLocation]
+	Value = 'h + 2.5*highest(range,5)'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_4\IntervalObject]
 	AxisType = '0'
@@ -6130,21 +5486,21 @@
 	ManualMode = '0'
 	MarginBottom = '5'
 	MarginTop = '5'
-	Maximum = '4969,65'
-	Minimum = '-25,75'
+	Maximum = '4420,64632531376'
+	Minimum = '4367,59076975821'
 	MovementSize.Long = '1'
 	MovementSize.Metric = 'False'
 	MovementSize.Price = '5'
 	OverlayDataSeries = 'False'
 	PriceRange.Above = '1,79769313486232E+308'
 	PriceRange.Below = '1,79769313486232E+308'
-	ScaleType = '0'
+	ScaleType = '3'
 	UseMargins = '0'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_4\LabelProcessingObject]
 	AutoMode = '1'
 	EnableProcessing = '0'
-	PriceScaleType = '2'
+	PriceScaleType = '111'
 	SelectedId = '0'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_4\LabelProcessingObject\Item 0]
@@ -6163,7 +5519,7 @@
 	Suffix = 'b'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_4\ShortTechInfo]
-	IdName = 'i_AO_Stats_DataCollection'
+	IdName = 'i_AO_DateMaker_MC'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_4\VolumeObject]
 	VolumeBarWidth = '1'
@@ -6230,85 +5586,289 @@
 	UserBarMode = '0'
 	UserBarRef = '50'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\InputHelper\Input_AlertEnabled]
-	Value = 'false'
+[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\InputHelper\Input_Instance]
+	Value = '1'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\InputHelper\Input_SignalsEnabled]
-	Value = 'true'
+[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\InputHelper\Input_Length]
+	Value = '10'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\InputHelper\Input_Version.4]
-	Value = '20240525'
+[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\InputHelper\Input_Strength]
+	Value = '2'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\InputHelper\Input__AlertText.i1RBear]
-	Value = '"i 1 R Bear Alert"'
+[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\InputHelper\Input_Version.05]
+	Value = '20230717'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\InputHelper\Input__AlertText.i1RBull]
-	Value = '"i 1 R Bull Alert"'
+[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\InputHelper\Input_estTimeOffset]
+	Value = '300'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\InputHelper\Input__DebugDate]
-	Value = '"10/18/2022"'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\InputHelper\Input__DebugON]
-	Value = 'false'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\InputHelper\Input__debugBarEnd]
-	Value = '12'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\InputHelper\Input__debugBarStart]
-	Value = '6'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\InputHelper\Input_bearColor]
-	Value = 'rgb(255, 128, 0)'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\InputHelper\Input_bullColor]
-	Value = 'rgb(0, 128, 255)'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\InputHelper\Input_endTime]
-	Value = '1315'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\InputHelper\Input_startTime]
-	Value = '0630'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\InputHelper\Input_tickOffsetInput]
-	Value = '0.5'
+[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\InputHelper\Input_oneTickValue]
+	Value = '0.0'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\PlotHelper\Plot_1]
 	DefAlign = '2'
 	DefBKColor = '0'
-	DefColor = '255'
-	DefColor2 = '255'
+	DefColor = '16777215'
+	DefColor2 = '32768'
 	DefDecimals = '5'
-	DefFormat = '1'
+	DefFormat = '6'
 	DefShowLastPriceMarker = '-1'
-	DefStyle = '0'
-	DefWidth = '3'
-	PlotType = '4'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\PlotHelper\Plot_2]
+[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\PlotHelper\Plot_10]
 	DefAlign = '2'
 	DefBKColor = '0'
-	DefColor = '255'
-	DefColor2 = '255'
+	DefColor = '4294901760'
+	DefColor2 = '32896'
+	DefDecimals = '5'
+	DefFormat = '6'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\PlotHelper\Plot_11]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '4278255615'
+	DefColor2 = '0'
+	DefDecimals = '5'
+	DefFormat = '6'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\PlotHelper\Plot_12]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '4294967040'
+	DefColor2 = '0'
+	DefDecimals = '5'
+	DefFormat = '6'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\PlotHelper\Plot_13]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '4278190335'
+	DefColor2 = '32768'
+	DefDecimals = '5'
+	DefFormat = '6'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\PlotHelper\Plot_14]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '4294901760'
+	DefColor2 = '32896'
+	DefDecimals = '5'
+	DefFormat = '6'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\PlotHelper\Plot_15]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '4278255615'
+	DefColor2 = '0'
 	DefDecimals = '5'
 	DefFormat = '1'
 	DefShowLastPriceMarker = '-1'
-	DefStyle = '0'
-	DefWidth = '3'
-	PlotType = '5'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\PlotHelper\Plot_16]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '4294967040'
+	DefColor2 = '0'
+	DefDecimals = '5'
+	DefFormat = '6'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\PlotHelper\Plot_17]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '4278190335'
+	DefColor2 = '32768'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\PlotHelper\Plot_18]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '4294901760'
+	DefColor2 = '32896'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\PlotHelper\Plot_19]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '4278255615'
+	DefColor2 = '0'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\PlotHelper\Plot_20]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '4294967040'
+	DefColor2 = '0'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\PlotHelper\Plot_3]
 	DefAlign = '2'
 	DefBKColor = '0'
-	DefColor = '255'
-	DefColor2 = '255'
+	DefColor = '4278255615'
+	DefColor2 = '0'
 	DefDecimals = '5'
 	DefFormat = '1'
 	DefShowLastPriceMarker = '-1'
-	DefStyle = '0'
-	DefWidth = '3'
-	PlotType = '6'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\PlotHelper\Plot_32]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '0'
+	DefColor2 = '16711680'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\PlotHelper\Plot_33]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '0'
+	DefColor2 = '16776960'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\PlotHelper\Plot_34]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '65535'
+	DefColor2 = '65535'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\PlotHelper\Plot_35]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '0'
+	DefColor2 = '16711935'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\PlotHelper\Plot_39]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '0'
+	DefColor2 = '16776960'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\PlotHelper\Plot_4]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '4294967040'
+	DefColor2 = '0'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\PlotHelper\Plot_40]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '0'
+	DefColor2 = '65535'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\PlotHelper\Plot_41]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '16711935'
+	DefColor2 = '16711935'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\PlotHelper\Plot_42]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '65280'
+	DefColor2 = '65280'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\PlotHelper\Plot_43]
 	DefAlign = '2'
 	DefBKColor = '0'
 	DefColor = '255'
@@ -6316,9 +5876,93 @@
 	DefDecimals = '5'
 	DefFormat = '1'
 	DefShowLastPriceMarker = '-1'
-	DefStyle = '0'
-	DefWidth = '3'
-	PlotType = '7'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\PlotHelper\Plot_44]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '16711680'
+	DefColor2 = '16711680'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\PlotHelper\Plot_45]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '16776960'
+	DefColor2 = '16776960'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\PlotHelper\Plot_5]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '4278190335'
+	DefColor2 = '32768'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\PlotHelper\Plot_6]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '4294901760'
+	DefColor2 = '32896'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\PlotHelper\Plot_7]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '4278255615'
+	DefColor2 = '0'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\PlotHelper\Plot_8]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '4294967040'
+	DefColor2 = '0'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_5\IndicatorHelper\PlotHelper\Plot_9]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '4278190335'
+	DefColor2 = '32768'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '5'
+	DefWidth = '0'
+	PlotType = '0'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_5\IntervalObject]
 	AxisType = '0'
@@ -6331,21 +5975,21 @@
 	ManualMode = '0'
 	MarginBottom = '5'
 	MarginTop = '5'
-	Maximum = '5309,18995857092'
-	Minimum = '5194,13129142908'
+	Maximum = '4969,65'
+	Minimum = '-25,75'
 	MovementSize.Long = '1'
 	MovementSize.Metric = 'False'
 	MovementSize.Price = '5'
 	OverlayDataSeries = 'False'
 	PriceRange.Above = '1,79769313486232E+308'
 	PriceRange.Below = '1,79769313486232E+308'
-	ScaleType = '3'
+	ScaleType = '0'
 	UseMargins = '0'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_5\LabelProcessingObject]
 	AutoMode = '1'
 	EnableProcessing = '0'
-	PriceScaleType = '109'
+	PriceScaleType = '2'
 	SelectedId = '0'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_5\LabelProcessingObject\Item 0]
@@ -6364,7 +6008,7 @@
 	Suffix = 'b'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_5\ShortTechInfo]
-	IdName = 'i_AO_i1R_v2_Signals'
+	IdName = 'i_AO_Stats_DataCollection'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_5\VolumeObject]
 	VolumeBarWidth = '1'
@@ -6431,8 +6075,47 @@
 	UserBarMode = '0'
 	UserBarRef = '50'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_6\IndicatorHelper\InputHelper\Input_period]
-	Value = '5'
+[Wsp\Window_0\ChartManager\Chart_0\Series_6\IndicatorHelper\InputHelper\Input_AlertEnabled]
+	Value = 'false'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_6\IndicatorHelper\InputHelper\Input_SignalsEnabled]
+	Value = 'true'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_6\IndicatorHelper\InputHelper\Input_Version.4]
+	Value = '20240525'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_6\IndicatorHelper\InputHelper\Input__AlertText.i1RBear]
+	Value = '"i 1 R Bear Alert"'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_6\IndicatorHelper\InputHelper\Input__AlertText.i1RBull]
+	Value = '"i 1 R Bull Alert"'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_6\IndicatorHelper\InputHelper\Input__DebugDate]
+	Value = '"10/18/2022"'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_6\IndicatorHelper\InputHelper\Input__DebugON]
+	Value = 'false'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_6\IndicatorHelper\InputHelper\Input__debugBarEnd]
+	Value = '12'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_6\IndicatorHelper\InputHelper\Input__debugBarStart]
+	Value = '6'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_6\IndicatorHelper\InputHelper\Input_bearColor]
+	Value = 'rgb(255, 128, 0)'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_6\IndicatorHelper\InputHelper\Input_bullColor]
+	Value = 'rgb(0, 128, 255)'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_6\IndicatorHelper\InputHelper\Input_endTime]
+	Value = '1315'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_6\IndicatorHelper\InputHelper\Input_startTime]
+	Value = '0630'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_6\IndicatorHelper\InputHelper\Input_tickOffsetInput]
+	Value = '0.5'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_6\IndicatorHelper\PlotHelper\Plot_1]
 	DefAlign = '2'
@@ -6443,20 +6126,44 @@
 	DefFormat = '1'
 	DefShowLastPriceMarker = '-1'
 	DefStyle = '0'
-	DefWidth = '1'
-	PlotType = '3'
+	DefWidth = '3'
+	PlotType = '4'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_6\IndicatorHelper\PlotHelper\Plot_2]
 	DefAlign = '2'
 	DefBKColor = '0'
-	DefColor = '16711680'
-	DefColor2 = '16711680'
+	DefColor = '255'
+	DefColor2 = '255'
 	DefDecimals = '5'
 	DefFormat = '1'
 	DefShowLastPriceMarker = '-1'
 	DefStyle = '0'
-	DefWidth = '1'
-	PlotType = '3'
+	DefWidth = '3'
+	PlotType = '5'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_6\IndicatorHelper\PlotHelper\Plot_3]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '255'
+	DefColor2 = '255'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '0'
+	DefWidth = '3'
+	PlotType = '6'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_6\IndicatorHelper\PlotHelper\Plot_4]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '255'
+	DefColor2 = '255'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '-1'
+	DefStyle = '0'
+	DefWidth = '3'
+	PlotType = '7'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_6\IntervalObject]
 	AxisType = '0'
@@ -6469,8 +6176,8 @@
 	ManualMode = '0'
 	MarginBottom = '5'
 	MarginTop = '5'
-	Maximum = '4971,43055555556'
-	Minimum = '4902,81944444444'
+	Maximum = '5309,18995857092'
+	Minimum = '5194,13129142908'
 	MovementSize.Long = '1'
 	MovementSize.Metric = 'False'
 	MovementSize.Price = '5'
@@ -6483,7 +6190,7 @@
 [Wsp\Window_0\ChartManager\Chart_0\Series_6\LabelProcessingObject]
 	AutoMode = '1'
 	EnableProcessing = '0'
-	PriceScaleType = '111'
+	PriceScaleType = '109'
 	SelectedId = '0'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_6\LabelProcessingObject\Item 0]
@@ -6502,7 +6209,7 @@
 	Suffix = 'b'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_6\ShortTechInfo]
-	IdName = 'i_AO_TSM_Fractal_Indicator'
+	IdName = 'i_AO_i1R_v2_Signals'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_6\VolumeObject]
 	VolumeBarWidth = '1'
@@ -6569,170 +6276,8 @@
 	UserBarMode = '0'
 	UserBarRef = '50'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input_Version.6.2]
-	Value = '20240226'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__AlertText.BLBO]
-	Value = '"Bull Breakout"'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__AlertText.BLCX]
-	Value = '"Buy Climax"'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__AlertText.BLFT]
-	Value = '"Bull Breakout and Follow Through"'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__AlertText.BLOB]
-	Value = '"Bull Outside Bar"'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__AlertText.BRBO]
-	Value = '"Bear Breakout"'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__AlertText.BRCX]
-	Value = '"Sell Climax"'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__AlertText.BRFT]
-	Value = '"Bear Breakout and Follow Through"'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__AlertText.BROB]
-	Value = '"Bear Outside Bar"'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__AlertText.BigBLBO]
-	Value = '"Big Bull Breakout"'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__AlertText.BigBRBO]
-	Value = '"Big Bear Breakout"'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__AlertText.DojiOB]
-	Value = '"Neutral Outside Bar"'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__AlertText.IB]
-	Value = '"Inside Bar"'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__AlertText.OB]
-	Value = '"Outside Bar"'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__BLBOcolor]
-	Value = 'rgb(0, 128, 255)'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__BLCXcolor]
-	Value = 'rgb(0, 200, 255)'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__BLFTbarIBS]
-	Value = '60'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__BLFTcolor]
-	Value = 'rgb(64, 200, 255)'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__BLOBcolor]
-	Value = 'rgb(0, 128, 0)'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__BLsignalIBS]
-	Value = '70'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__BRBOcolor]
-	Value = 'rgb(200, 0, 0)'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__BRCXcolor]
-	Value = 'rgb(255, 128, 255)'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__BRFTbarIBS]
-	Value = '40'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__BRFTcolor]
-	Value = 'rgb(255, 64, 64)'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__BROBcolor]
-	Value = 'rgb(255, 128, 0)'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__BRsignalIBS]
-	Value = '30'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__BigBLBOcolor]
-	Value = 'rgb(0, 230, 230)'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__BigBORangeFactor]
-	Value = '1.05'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__BigBObyZscore]
-	Value = '1'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__BigBRBOcolor]
-	Value = 'rgb(255, 0, 255)'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__CXfactor]
-	Value = '1.8'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__ChartData]
-	Value = '1'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__CompareBody2Body]
-	Value = '1'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__CompareRange2Range]
-	Value = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__DebugON]
-	Value = 'false'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__DoNotIBSfilterOB]
-	Value = '1'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__DoNotRangeLimitOB]
-	Value = '1'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__DojiColor]
-	Value = 'rgb(255, 128, 255)'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__FTafterOB]
-	Value = '1'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__FTbarMustBO]
-	Value = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__FTbarMustCloseBeyond]
-	Value = '1'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__FTbarNotRangeLimited]
-	Value = '1'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__FTcolorSameAsBO]
-	Value = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__IgnoreOpenGap]
-	Value = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__PaintFTBar]
-	Value = '1'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__RangeFilter]
-	Value = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__RangeLookBack]
-	Value = '8'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__SessOpenTime]
-	Value = '-1'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__ShowBLBO]
-	Value = '1'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__ShowBRBO]
-	Value = '1'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__ShowBigBO]
-	Value = '1'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__ShowCX]
-	Value = '1'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__ShowOutsideBars]
-	Value = '1'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__StrictOB]
-	Value = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input__zLength]
-	Value = '20'
+[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\InputHelper\Input_period]
+	Value = '5'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\PlotHelper\Plot_1]
 	DefAlign = '2'
@@ -6741,46 +6286,22 @@
 	DefColor2 = '255'
 	DefDecimals = '5'
 	DefFormat = '1'
-	DefShowLastPriceMarker = '0'
+	DefShowLastPriceMarker = '-1'
 	DefStyle = '0'
-	DefWidth = '3'
-	PlotType = '4'
+	DefWidth = '1'
+	PlotType = '3'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\PlotHelper\Plot_2]
 	DefAlign = '2'
 	DefBKColor = '0'
-	DefColor = '255'
-	DefColor2 = '255'
+	DefColor = '16711680'
+	DefColor2 = '16711680'
 	DefDecimals = '5'
 	DefFormat = '1'
-	DefShowLastPriceMarker = '0'
+	DefShowLastPriceMarker = '-1'
 	DefStyle = '0'
-	DefWidth = '3'
-	PlotType = '5'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\PlotHelper\Plot_3]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '255'
-	DefColor2 = '255'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '0'
-	DefStyle = '0'
-	DefWidth = '3'
-	PlotType = '6'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_7\IndicatorHelper\PlotHelper\Plot_4]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '255'
-	DefColor2 = '255'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '0'
-	DefStyle = '0'
-	DefWidth = '3'
-	PlotType = '7'
+	DefWidth = '1'
+	PlotType = '3'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_7\IntervalObject]
 	AxisType = '0'
@@ -6793,8 +6314,8 @@
 	ManualMode = '0'
 	MarginBottom = '5'
 	MarginTop = '5'
-	Maximum = '4171,729492318'
-	Minimum = '4124,8542730741'
+	Maximum = '4971,43055555556'
+	Minimum = '4902,81944444444'
 	MovementSize.Long = '1'
 	MovementSize.Metric = 'False'
 	MovementSize.Price = '5'
@@ -6826,7 +6347,7 @@
 	Suffix = 'b'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_7\ShortTechInfo]
-	IdName = 'i_AMA_Breakouts_PB'
+	IdName = 'i_AO_TSM_Fractal_Indicator'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_7\VolumeObject]
 	VolumeBarWidth = '1'
@@ -6893,26 +6414,218 @@
 	UserBarMode = '0'
 	UserBarRef = '50'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input_Displace]
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input_Version.6.2]
+	Value = '20240226'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__AlertText.BLBO]
+	Value = '"Bull Breakout"'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__AlertText.BLCX]
+	Value = '"Buy Climax"'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__AlertText.BLFT]
+	Value = '"Bull Breakout and Follow Through"'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__AlertText.BLOB]
+	Value = '"Bull Outside Bar"'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__AlertText.BRBO]
+	Value = '"Bear Breakout"'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__AlertText.BRCX]
+	Value = '"Sell Climax"'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__AlertText.BRFT]
+	Value = '"Bear Breakout and Follow Through"'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__AlertText.BROB]
+	Value = '"Bear Outside Bar"'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__AlertText.BigBLBO]
+	Value = '"Big Bull Breakout"'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__AlertText.BigBRBO]
+	Value = '"Big Bear Breakout"'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__AlertText.DojiOB]
+	Value = '"Neutral Outside Bar"'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__AlertText.IB]
+	Value = '"Inside Bar"'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__AlertText.OB]
+	Value = '"Outside Bar"'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__BLBOcolor]
+	Value = 'rgb(0, 128, 255)'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__BLCXcolor]
+	Value = 'rgb(0, 200, 255)'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__BLFTbarIBS]
+	Value = '60'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__BLFTcolor]
+	Value = 'rgb(64, 200, 255)'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__BLOBcolor]
+	Value = 'rgb(0, 128, 0)'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__BLsignalIBS]
+	Value = '70'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__BRBOcolor]
+	Value = 'rgb(200, 0, 0)'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__BRCXcolor]
+	Value = 'rgb(255, 128, 255)'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__BRFTbarIBS]
+	Value = '40'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__BRFTcolor]
+	Value = 'rgb(255, 64, 64)'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__BROBcolor]
+	Value = 'rgb(255, 128, 0)'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__BRsignalIBS]
+	Value = '30'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__BigBLBOcolor]
+	Value = 'rgb(0, 230, 230)'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__BigBORangeFactor]
+	Value = '1.05'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__BigBObyZscore]
+	Value = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__BigBRBOcolor]
+	Value = 'rgb(255, 0, 255)'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__CXfactor]
+	Value = '1.8'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__ChartData]
+	Value = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__CompareBody2Body]
+	Value = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__CompareRange2Range]
 	Value = '0'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input_Length]
-	Value = '200'
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__DebugON]
+	Value = 'false'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input_Price]
-	Value = 'close'
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__DoNotIBSfilterOB]
+	Value = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__DoNotRangeLimitOB]
+	Value = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__DojiColor]
+	Value = 'rgb(255, 128, 255)'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__FTafterOB]
+	Value = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__FTbarMustBO]
+	Value = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__FTbarMustCloseBeyond]
+	Value = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__FTbarNotRangeLimited]
+	Value = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__FTcolorSameAsBO]
+	Value = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__IgnoreOpenGap]
+	Value = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__PaintFTBar]
+	Value = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__RangeFilter]
+	Value = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__RangeLookBack]
+	Value = '8'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__SessOpenTime]
+	Value = '-1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__ShowBLBO]
+	Value = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__ShowBRBO]
+	Value = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__ShowBigBO]
+	Value = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__ShowCX]
+	Value = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__ShowOutsideBars]
+	Value = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__StrictOB]
+	Value = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\InputHelper\Input__zLength]
+	Value = '20'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\PlotHelper\Plot_1]
 	DefAlign = '2'
 	DefBKColor = '0'
-	DefColor = '16711680'
+	DefColor = '255'
 	DefColor2 = '255'
 	DefDecimals = '5'
 	DefFormat = '1'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '2'
-	DefWidth = '0'
-	PlotType = '0'
+	DefShowLastPriceMarker = '0'
+	DefStyle = '0'
+	DefWidth = '3'
+	PlotType = '4'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\PlotHelper\Plot_2]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '255'
+	DefColor2 = '255'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '0'
+	DefStyle = '0'
+	DefWidth = '3'
+	PlotType = '5'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\PlotHelper\Plot_3]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '255'
+	DefColor2 = '255'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '0'
+	DefStyle = '0'
+	DefWidth = '3'
+	PlotType = '6'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_8\IndicatorHelper\PlotHelper\Plot_4]
+	DefAlign = '2'
+	DefBKColor = '0'
+	DefColor = '255'
+	DefColor2 = '255'
+	DefDecimals = '5'
+	DefFormat = '1'
+	DefShowLastPriceMarker = '0'
+	DefStyle = '0'
+	DefWidth = '3'
+	PlotType = '7'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_8\IntervalObject]
 	AxisType = '0'
@@ -6925,8 +6638,8 @@
 	ManualMode = '0'
 	MarginBottom = '5'
 	MarginTop = '5'
-	Maximum = '4971,43055555556'
-	Minimum = '4902,81944444444'
+	Maximum = '4171,729492318'
+	Minimum = '4124,8542730741'
 	MovementSize.Long = '1'
 	MovementSize.Metric = 'False'
 	MovementSize.Price = '5'
@@ -6958,7 +6671,7 @@
 	Suffix = 'b'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_8\ShortTechInfo]
-	IdName = 'ib_Movb20Avgb20Exponential'
+	IdName = 'i_AMA_Breakouts_PB'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_8\VolumeObject]
 	VolumeBarWidth = '1'
@@ -7025,93 +6738,24 @@
 	UserBarMode = '0'
 	UserBarRef = '50'
 
+[Wsp\Window_0\ChartManager\Chart_0\Series_9\IndicatorHelper\InputHelper\Input_Displace]
+	Value = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_9\IndicatorHelper\InputHelper\Input_Length]
+	Value = '200'
+
 [Wsp\Window_0\ChartManager\Chart_0\Series_9\IndicatorHelper\InputHelper\Input_Price]
-	Value = 'typicalprice'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_9\IndicatorHelper\InputHelper\Input_Version.07]
-	Value = '202308019'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_9\IndicatorHelper\InputHelper\Input__DebugON]
-	Value = 'false'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_9\IndicatorHelper\InputHelper\Input_bearStrongTrendColorDefault]
-	Value = 'rgb(255,128,0)'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_9\IndicatorHelper\InputHelper\Input_bearStrongTrendWidthDefault]
-	Value = '6'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_9\IndicatorHelper\InputHelper\Input_bearTrendColorDefault]
-	Value = 'rgb(255,0,0)'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_9\IndicatorHelper\InputHelper\Input_bullStrongTrendColorDefault]
-	Value = 'rgb(0,220,0)'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_9\IndicatorHelper\InputHelper\Input_bullStrongTrendWidthDefault]
-	Value = '6'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_9\IndicatorHelper\InputHelper\Input_bullTrendColorDefault]
-	Value = 'rgb(0,128,0)'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_9\IndicatorHelper\InputHelper\Input_colorDefault]
-	Value = 'rgb(0,128,255)'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_9\IndicatorHelper\InputHelper\Input_endTime]
-	Value = '1315'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_9\IndicatorHelper\InputHelper\Input_length]
-	Value = '20'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_9\IndicatorHelper\InputHelper\Input_slopeMALength]
-	Value = '5'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_9\IndicatorHelper\InputHelper\Input_startTime]
-	Value = '635'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_9\IndicatorHelper\InputHelper\Input_strongTrendAngle]
-	Value = '35'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_9\IndicatorHelper\InputHelper\Input_trendAngle]
-	Value = '25'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_9\IndicatorHelper\InputHelper\Input_trendWidth]
-	Value = '2'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_9\IndicatorHelper\InputHelper\Input_useColor]
-	Value = 'true'
+	Value = 'close'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_9\IndicatorHelper\PlotHelper\Plot_1]
 	DefAlign = '2'
 	DefBKColor = '0'
-	DefColor = '0'
-	DefColor2 = '32768'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '0'
-	DefWidth = '4'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_9\IndicatorHelper\PlotHelper\Plot_2]
-	DefAlign = '2'
-	DefBKColor = '0'
 	DefColor = '16711680'
-	DefColor2 = '16711680'
+	DefColor2 = '255'
 	DefDecimals = '5'
 	DefFormat = '1'
 	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
-	DefWidth = '0'
-	PlotType = '0'
-
-[Wsp\Window_0\ChartManager\Chart_0\Series_9\IndicatorHelper\PlotHelper\Plot_3]
-	DefAlign = '2'
-	DefBKColor = '0'
-	DefColor = '16776960'
-	DefColor2 = '16776960'
-	DefDecimals = '5'
-	DefFormat = '1'
-	DefShowLastPriceMarker = '-1'
-	DefStyle = '5'
+	DefStyle = '2'
 	DefWidth = '0'
 	PlotType = '0'
 
@@ -7159,7 +6803,7 @@
 	Suffix = 'b'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_9\ShortTechInfo]
-	IdName = 'i_AO_MA_ARC'
+	IdName = 'ib_Movb20Avgb20Exponential'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_9\VolumeObject]
 	VolumeBarWidth = '1'
@@ -7486,9 +7130,9 @@
 	Type = '4'
 
 [Wsp\Window_0\ChartManager\IndexViewCalc]
-	BarSpacing = '26'
-	BarsToRight = '0'
-	BarsToRightValue = '0'
+	BarSpacing = '20'
+	BarsToRight = '15,8760716472749'
+	BarsToRightValue = '29'
 	ChartShiftViewType = '0'
 	ShowEmptyPeriod = '0'
 
@@ -7784,7 +7428,7 @@
 	Left Manual = '0'
 	Left Scale = '0'
 	Precise Marker = '1'
-	Right Characters = '8'
+	Right Characters = '10'
 	Right Manual = '0'
 	Right Scale = '1'
 	Time To Close = '1'
@@ -8582,54 +8226,6 @@
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_Frama_Price]
 	Value = '(h+l)/2'
 
-[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_OR_UseLimitInsteadOfMarketToScaleIn]
-	IsInputOptimizable = '1'
-	LocalCurrentValue2 = '1'
-	Start2 = '1'
-	Step2 = '1'
-	Stop2 = '1'
-	Value = '1'
-
-[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_OR_clearTargetsAfterBar]
-	IsInputOptimizable = '1'
-	LocalCurrentValue2 = '30'
-	Start2 = '30'
-	Step2 = '1'
-	Stop2 = '30'
-	Value = '30'
-
-[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_OR_decreaseTargetByPointsAfter2Scaleins]
-	IsInputOptimizable = '1'
-	LocalCurrentValue2 = '0,5'
-	Start2 = '0,5'
-	Step2 = '1'
-	Stop2 = '0,5'
-	Value = '0.50'
-
-[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_OR_decreaseTargetByPointsAfter3Scaleins]
-	IsInputOptimizable = '1'
-	LocalCurrentValue2 = '1,5'
-	Start2 = '1,5'
-	Step2 = '1'
-	Stop2 = '1,5'
-	Value = '1.50'
-
-[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_OR_limitEntryInsteadOfMkt]
-	IsInputOptimizable = '1'
-	LocalCurrentValue2 = '1'
-	Start2 = '1'
-	Step2 = '1'
-	Stop2 = '1'
-	Value = '1'
-
-[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_OR_limitEntryMaxPoints]
-	IsInputOptimizable = '1'
-	LocalCurrentValue2 = '1,5'
-	Start2 = '1,5'
-	Step2 = '1'
-	Stop2 = '1,5'
-	Value = '1.5'
-
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_Sigma1_Color_Bl]
 	Value = 'rgb(152,251,152)'
 
@@ -8686,13 +8282,13 @@
 	Stop2 = '0,7'
 	Value = '0.7'
 
-[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_Version.13.240923]
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_Version.13.0901]
 	IsInputOptimizable = '1'
-	LocalCurrentValue2 = '20240923'
-	Start2 = '20240923'
+	LocalCurrentValue2 = '20240901'
+	Start2 = '20240901'
 	Step2 = '1'
-	Stop2 = '20240923'
-	Value = '20240923'
+	Stop2 = '20240901'
+	Value = '20240901'
 
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input__4CCOR_initialTargetMultiplier]
 	IsInputOptimizable = '1'
@@ -11384,14 +10980,6 @@
 	Stop2 = '0'
 	Value = '0'
 
-[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_enforceFomc]
-	IsInputOptimizable = '1'
-	LocalCurrentValue2 = '1'
-	Start2 = '1'
-	Step2 = '1'
-	Stop2 = '1'
-	Value = '1'
-
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_entryDivideOffset]
 	IsInputOptimizable = '1'
 	LocalCurrentValue2 = '2'
@@ -11682,14 +11270,6 @@
 	Step2 = '1'
 	Stop2 = '20'
 	Value = '20'
-
-[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_maxSarEntriesPerDay]
-	IsInputOptimizable = '1'
-	LocalCurrentValue2 = '1'
-	Start2 = '1'
-	Step2 = '1'
-	Stop2 = '1'
-	Value = '1'
 
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_medVolVixHighMark]
 	IsInputOptimizable = '1'
@@ -12309,14 +11889,6 @@
 	Value = '1'
 
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_sar_contracts_multiplier]
-	IsInputOptimizable = '1'
-	LocalCurrentValue2 = '1'
-	Start2 = '1'
-	Step2 = '1'
-	Stop2 = '1'
-	Value = '1'
-
-[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_sar_exit_on_halfbarssinceentry]
 	IsInputOptimizable = '1'
 	LocalCurrentValue2 = '1'
 	Start2 = '1'
@@ -13584,54 +13156,6 @@
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_Frama_Price]
 	Value = '(h+l)/2'
 
-[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_OR_UseLimitInsteadOfMarketToScaleIn]
-	IsInputOptimizable = '1'
-	LocalCurrentValue2 = '1'
-	Start2 = '1'
-	Step2 = '1'
-	Stop2 = '1'
-	Value = '1'
-
-[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_OR_clearTargetsAfterBar]
-	IsInputOptimizable = '1'
-	LocalCurrentValue2 = '30'
-	Start2 = '30'
-	Step2 = '1'
-	Stop2 = '30'
-	Value = '30'
-
-[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_OR_decreaseTargetByPointsAfter2Scaleins]
-	IsInputOptimizable = '1'
-	LocalCurrentValue2 = '0,5'
-	Start2 = '0,5'
-	Step2 = '1'
-	Stop2 = '0,5'
-	Value = '0.50'
-
-[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_OR_decreaseTargetByPointsAfter3Scaleins]
-	IsInputOptimizable = '1'
-	LocalCurrentValue2 = '1,5'
-	Start2 = '1,5'
-	Step2 = '1'
-	Stop2 = '1,5'
-	Value = '1.50'
-
-[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_OR_limitEntryInsteadOfMkt]
-	IsInputOptimizable = '1'
-	LocalCurrentValue2 = '1'
-	Start2 = '1'
-	Step2 = '1'
-	Stop2 = '1'
-	Value = '1'
-
-[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_OR_limitEntryMaxPoints]
-	IsInputOptimizable = '1'
-	LocalCurrentValue2 = '1,5'
-	Start2 = '1,5'
-	Step2 = '1'
-	Stop2 = '1,5'
-	Value = '1.5'
-
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_Sigma1_Color_Bl]
 	Value = 'rgb(152,251,152)'
 
@@ -13688,13 +13212,13 @@
 	Stop2 = '0,7'
 	Value = '0.7'
 
-[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_Version.13.240923]
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_Version.13.0901]
 	IsInputOptimizable = '1'
-	LocalCurrentValue2 = '20240923'
-	Start2 = '20240923'
+	LocalCurrentValue2 = '20240901'
+	Start2 = '20240901'
 	Step2 = '1'
-	Stop2 = '20240923'
-	Value = '20240923'
+	Stop2 = '20240901'
+	Value = '20240901'
 
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input__4CCOR_initialTargetMultiplier]
 	IsInputOptimizable = '1'
@@ -14440,11 +13964,11 @@
 
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input__OR_SMALLGAP_scalein1stopmultiplier]
 	IsInputOptimizable = '1'
-	LocalCurrentValue2 = '6'
-	Start2 = '6'
+	LocalCurrentValue2 = '7'
+	Start2 = '7'
 	Step2 = '1'
-	Stop2 = '6'
-	Value = '6'
+	Stop2 = '7'
+	Value = '7'
 
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input__OR_SMALLGAP_scalein2Multiplier]
 	IsInputOptimizable = '1'
@@ -14464,11 +13988,11 @@
 
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input__OR_SMALLGAP_scalein2stopmultiplier]
 	IsInputOptimizable = '1'
-	LocalCurrentValue2 = '5'
-	Start2 = '5'
+	LocalCurrentValue2 = '7'
+	Start2 = '7'
 	Step2 = '1'
-	Stop2 = '5'
-	Value = '5'
+	Stop2 = '7'
+	Value = '7'
 
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input__OR_SMALLGAP_scalein3Multiplier]
 	IsInputOptimizable = '1'
@@ -14488,11 +14012,11 @@
 
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input__OR_SMALLGAP_scalein3stopmultiplier]
 	IsInputOptimizable = '1'
-	LocalCurrentValue2 = '4'
+	LocalCurrentValue2 = '7'
 	Start2 = '1,5'
 	Step2 = '1'
 	Stop2 = '1,5'
-	Value = '4'
+	Value = '7'
 
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input__OverlapBLOBcolor]
 	Value = 'rgb(0, 148, 255)'
@@ -14963,7 +14487,7 @@
 	Value = '"Cx BL"'
 
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_________DEBUG_______]
-	Value = '"1/1/2023 to 6/30/2023 $1255" '
+	Value = '"9-30-2023 to 12/31/2023 $347.50" '
 
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_________FRAMA_______]
 	Value = '"FRAMA"'
@@ -16386,14 +15910,6 @@
 	Stop2 = '0'
 	Value = '0'
 
-[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_enforceFomc]
-	IsInputOptimizable = '1'
-	LocalCurrentValue2 = '0'
-	Start2 = '0'
-	Step2 = '1'
-	Stop2 = '0'
-	Value = '0'
-
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_entryDivideOffset]
 	IsInputOptimizable = '1'
 	LocalCurrentValue2 = '2'
@@ -16437,9 +15953,9 @@
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_exit_or_smallgap_forceExitAfterBar]
 	IsInputOptimizable = '1'
 	LocalCurrentValue2 = '35'
-	Start2 = '25'
+	Start2 = '35'
 	Step2 = '1'
-	Stop2 = '25'
+	Stop2 = '35'
 	Value = '35'
 
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_filterPercentageAbrCloseToEma]
@@ -16684,14 +16200,6 @@
 	Step2 = '1'
 	Stop2 = '20'
 	Value = '20'
-
-[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_maxSarEntriesPerDay]
-	IsInputOptimizable = '1'
-	LocalCurrentValue2 = '1'
-	Start2 = '1'
-	Step2 = '1'
-	Stop2 = '1'
-	Value = '1'
 
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_medVolVixHighMark]
 	IsInputOptimizable = '1'
@@ -17304,21 +16812,13 @@
 
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_sar_contracts_add]
 	IsInputOptimizable = '1'
-	LocalCurrentValue2 = '2'
+	LocalCurrentValue2 = '0'
 	Start2 = '2'
 	Step2 = '1'
 	Stop2 = '2'
-	Value = '2'
+	Value = '0'
 
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_sar_contracts_multiplier]
-	IsInputOptimizable = '1'
-	LocalCurrentValue2 = '1'
-	Start2 = '1'
-	Step2 = '1'
-	Stop2 = '1'
-	Value = '1'
-
-[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_sar_exit_on_halfbarssinceentry]
 	IsInputOptimizable = '1'
 	LocalCurrentValue2 = '1'
 	Start2 = '1'
@@ -19062,7 +18562,7 @@ The reserved words supported in Portfolio optimization:
 	LIBSkipIdenticalTicks = '1'
 	LIBTimeDetalization = '1'
 	LIBType = '1'
-	LimitType = '2'
+	LimitType = '1'
 	MaximumPerPosition = '65000'
 	MinimumContracts = '0'
 	PercentOfEquity = '5'
@@ -19084,7 +18584,7 @@ The reserved words supported in Portfolio optimization:
 		}
 
 [Wsp\Window_0\ChartManager\TimeScale]
-	ShowMillisecondTimescale = '0'
+	ShowMillisecondTimescale = '1'
 	TimeScaleVisible = '1'
 
 [Wsp\Window_0\ChartManager\TimeScale\AxisStyle]
@@ -19126,7 +18626,7 @@ The reserved words supported in Portfolio optimization:
 	TIF = '1'
 
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings\Item_0\Second\TIFDate]
-	Ticks = '638630411006620000'
+	Ticks = '638622274054790000'
 
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\Window]
 	Property_CalcPriceValue = '0'
