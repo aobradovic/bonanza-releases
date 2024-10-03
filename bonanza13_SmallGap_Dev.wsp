@@ -11,17 +11,17 @@
 	WindowCount = '0'
 
 [Wsp\Window_0]
-	ContainerHeight = '1613'
-	ContainerWidth = '3840'
+	ContainerHeight = '1520'
+	ContainerWidth = '2982'
 	Flags = '2'
-	Height = '1504'
-	Left = '1166'
+	Height = '1494'
+	Left = '1162'
 	MinX = '-1'
 	MinY = '-1'
 	State = '3'
-	Top = '-29'
+	Top = '-27'
 	ViewType = '0'
-	Width = '2433'
+	Width = '2429'
 
 [Wsp\Window_0\ChartManager]
 	ChartCount = '2'
@@ -41,7 +41,7 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0]
 	DataNumber = '0'
-	DrawingsCount = '57'
+	DrawingsCount = '59'
 	ResolutionLinkId = '0'
 	ResolutionWsGlobal = '0'
 	SeriesType = '1'
@@ -59,7 +59,7 @@
 	BreakOnSession = '1'
 	BuildDayFromMinutes = '0'
 	CallPut = '0'
-	CapacityId = '90'
+	CapacityId = '30'
 	CapacityName = ''
 	Category = '0'
 	CategoryFilter = '254'
@@ -77,9 +77,9 @@
 	ExpirationDate = '0'
 	FieldId = '201'
 	FieldName = 'Trade'
-	FinishDate2Id = '39813'
+	FinishDate2Id = '45567'
 	FinishDate2Name = ''
-	FinishDateId = '45562'
+	FinishDateId = '44543'
 	FinishDateName = ''
 	FootPrintChartType = '0'
 	KagiReversal = '0,25'
@@ -91,8 +91,8 @@
 	PFigureBoxSize = '0,25'
 	PFigureReversal = '3'
 	PriceScale = '111'
-	RangeId = '1'
-	RangeName = 'PERIOD'
+	RangeId = '0'
+	RangeName = 'BACK'
 	RealTimeCategory = '0'
 	RealTimeDataFeed = 'ASCII Mapping'
 	RealTimeExchange = 'CME'
@@ -228,8 +228,8 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_10\Object]
 	Calculation = '0'
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '2371'
+	Coord_Index_1 = '2371'
 	CreatedSymbolName = '@ES.D'
 	FixedPoint = '0'
 	IsAnchorToBar = '1'
@@ -303,8 +303,8 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_11\Object]
 	Calculation = '0'
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '2371'
+	Coord_Index_1 = '2371'
 	CreatedSymbolName = '@ES.D'
 	FixedPoint = '0'
 	IsAnchorToBar = '1'
@@ -378,8 +378,8 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_12\Object]
 	Calculation = '0'
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '2371'
+	Coord_Index_1 = '2371'
 	CreatedSymbolName = '@ES.D'
 	FixedPoint = '0'
 	IsAnchorToBar = '1'
@@ -453,8 +453,8 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_13\Object]
 	Calculation = '0'
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '2371'
+	Coord_Index_1 = '2371'
 	CreatedSymbolName = '@ES.D'
 	FixedPoint = '0'
 	IsAnchorToBar = '1'
@@ -527,8 +527,8 @@
 	Number = '3'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_14\Object]
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '2371'
+	Coord_Index_1 = '2371'
 	CreatedSymbolName = '@ES.D'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -751,8 +751,8 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_15\Object]
 	Calculation = '0'
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '2371'
+	Coord_Index_1 = '2371'
 	CreatedSymbolName = '@ES.D'
 	FixedPoint = '0'
 	IsAnchorToBar = '1'
@@ -826,7 +826,7 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_16\Object]
 	Align = '18'
-	Coord_Index_0 = '20463'
+	Coord_Index_0 = '2371'
 	CreatedSymbolName = '@ES.D'
 	FontBackColor = '16777215'
 	FontColor = '0'
@@ -1121,8 +1121,8 @@
 	Width = '1'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_1\Object]
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '2371'
+	Coord_Index_1 = '2371'
 	CreatedSymbolName = 'P.ES-2023M'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -1522,48 +1522,235 @@
 	Width = '1'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22]
-	DrawingType = '13'
-	Number = '1'
+	DrawingType = '3'
+	Number = '4'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object]
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
-	CreatedSymbolName = '@ES.D'
+	Coord_Index_0 = '2275'
+	Coord_Index_1 = '2299'
+	CreatedSymbolName = 'P.ES'
 	IsAnchorToBar = '1'
 	Lock = 'False'
 	Status = 'True'
 
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\AlertObject]
+	AlertEnable = '0'
+	AlertType = '1'
+	PropertyCount = '8'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\AlertObject\Property_0]
+	PropertyName = '_Audio_Enable'
+	PropertyValue = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\AlertObject\Property_1]
+	PropertyName = '_Audio_Sound'
+	PropertyValue = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\AlertObject\Property_2]
+	PropertyName = '_Audio_Sound_File'
+	PropertyValue = 'ding.wav'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\AlertObject\Property_3]
+	PropertyName = '_Audio_Sound_Repeat'
+	PropertyValue = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\AlertObject\Property_4]
+	PropertyName = '_Visual_Enable'
+	PropertyValue = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\AlertObject\Property_5]
+	PropertyName = '_Visual_Timeout'
+	PropertyValue = '5'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\AlertObject\Property_6]
+	PropertyName = '_Email_Enable'
+	PropertyValue = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\AlertObject\Property_7]
+	PropertyName = '_Email_Subject'
+	PropertyValue = 'MultiCharts64 Alert'
+
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\Coord_A]
 	BarNumber = '0'
-	Price = '5212,9'
+	Price = '4702,847'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\Coord_A\DateTime]
-	Ticks = '638478972000000000'
+	Ticks = '637749744000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\Coord_B]
 	BarNumber = '0'
-	Price = '5216,64'
+	Price = '4696,3425'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\Coord_B\DateTime]
-	Ticks = '638478984000000000'
+	Ticks = '637749816000000000'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\Fill]
-	Color = '14935011'
-	Hatch = '0'
-	Style = '0'
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\Extend]
+	ExtendL = '0'
+	ExtendR = '0'
 
-[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\Line]
-	Color = '255'
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\Label\Font]
+	Bold = '0'
+	Charset = '0'
+	Italic = '0'
+	Name = 'Arial'
+	Size = '9'
+	Strikethrough = '0'
+	Underline = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\Label\Label]
+	Align = '1'
+	Attributes = '0'
+	Enabled = '1'
+	Orientation = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\LineA]
+	Color = '12632256'
+	Enabled = '1'
 	Style = '2'
+	ValueType = '8'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\LineB]
+	Color = '255'
+	Enabled = '1'
+	Style = '0'
+	ValueType = '8'
+	Width = '4'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\LineC]
+	Color = '255'
+	Enabled = '1'
+	Style = '0'
+	ValueType = '8'
+	Width = '4'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\LineD]
+	Color = '255'
+	Enabled = '1'
+	Style = '1'
+	Value = '2'
+	ValueType = '5'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\LineE]
+	Color = '0'
+	Enabled = '1'
+	Style = '2'
+	Value = '0,25'
+	ValueType = '5'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\LineF]
+	Color = '16711680'
+	Enabled = '1'
+	Style = '0'
+	Value = '0,5'
+	ValueType = '5'
+	Width = '4'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\LineG]
+	Color = '0'
+	Enabled = '1'
+	Style = '2'
+	Value = '0,75'
+	ValueType = '5'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\LineH]
+	Color = '6008319'
+	Enabled = '1'
+	Style = '0'
+	Value = '2,5'
+	ValueType = '5'
+	Width = '11'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\LineI]
+	Color = '6008319'
+	Enabled = '1'
+	Style = '0'
+	Value = '1,5'
+	ValueType = '5'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\LineJ]
+	Color = '3329330'
+	Enabled = '1'
+	Style = '0'
+	Value = '-1'
+	ValueType = '5'
+	Width = '4'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\LineK]
+	Color = '16711680'
+	Enabled = '1'
+	Style = '0'
+	Value = '-2'
+	ValueType = '5'
+	Width = '7'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\LineL]
+	Color = '0'
+	Enabled = '1'
+	Style = '0'
+	Value = '-1,25'
+	ValueType = '5'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\LineM]
+	Color = '0'
+	Enabled = '1'
+	Style = '2'
+	Value = '-1,75'
+	ValueType = '5'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\LineN]
+	Color = '139'
+	Enabled = '1'
+	Style = '0'
+	Value = '-3'
+	ValueType = '5'
+	Width = '7'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\LineO]
+	Color = '16711680'
+	Enabled = '0'
+	Style = '0'
+	Value = '0'
+	ValueType = '5'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\LineP]
+	Color = '16711680'
+	Enabled = '0'
+	Style = '0'
+	Value = '0'
+	ValueType = '5'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\LineQ]
+	Color = '16711680'
+	Enabled = '0'
+	Style = '0'
+	Value = '0'
+	ValueType = '5'
+	Width = '1'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_22\Object\LineR]
+	Color = '16711680'
+	Enabled = '0'
+	Style = '0'
+	Value = '0'
+	ValueType = '5'
 	Width = '1'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_23]
 	DrawingType = '13'
-	Number = '2'
+	Number = '1'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_23\Object]
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '2371'
+	Coord_Index_1 = '2371'
 	CreatedSymbolName = '@ES.D'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -1571,17 +1758,17 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_23\Object\Coord_A]
 	BarNumber = '0'
-	Price = '5215,84'
+	Price = '5212,9'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_23\Object\Coord_A\DateTime]
-	Ticks = '638478987000000000'
+	Ticks = '638478972000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_23\Object\Coord_B]
 	BarNumber = '0'
-	Price = '5213,61'
+	Price = '5216,64'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_23\Object\Coord_B\DateTime]
-	Ticks = '638478993000000000'
+	Ticks = '638478984000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_23\Object\Fill]
 	Color = '14935011'
@@ -1595,11 +1782,11 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_24]
 	DrawingType = '13'
-	Number = '3'
+	Number = '2'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_24\Object]
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '2371'
+	Coord_Index_1 = '2371'
 	CreatedSymbolName = '@ES.D'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -1607,17 +1794,17 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_24\Object\Coord_A]
 	BarNumber = '0'
-	Price = '5220,74'
+	Price = '5215,84'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_24\Object\Coord_A\DateTime]
-	Ticks = '638478975000000000'
+	Ticks = '638478987000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_24\Object\Coord_B]
 	BarNumber = '0'
-	Price = '5219,05'
+	Price = '5213,61'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_24\Object\Coord_B\DateTime]
-	Ticks = '638478981000000000'
+	Ticks = '638478993000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_24\Object\Fill]
 	Color = '14935011'
@@ -1631,11 +1818,11 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_25]
 	DrawingType = '13'
-	Number = '4'
+	Number = '3'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_25\Object]
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '2371'
+	Coord_Index_1 = '2371'
 	CreatedSymbolName = '@ES.D'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -1643,17 +1830,17 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_25\Object\Coord_A]
 	BarNumber = '0'
-	Price = '5219,94'
+	Price = '5220,74'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_25\Object\Coord_A\DateTime]
-	Ticks = '638478990000000000'
+	Ticks = '638478975000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_25\Object\Coord_B]
 	BarNumber = '0'
-	Price = '5217,98'
+	Price = '5219,05'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_25\Object\Coord_B\DateTime]
-	Ticks = '638478984000000000'
+	Ticks = '638478981000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_25\Object\Fill]
 	Color = '14935011'
@@ -1667,11 +1854,11 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_26]
 	DrawingType = '13'
-	Number = '5'
+	Number = '4'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_26\Object]
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '2371'
+	Coord_Index_1 = '2371'
 	CreatedSymbolName = '@ES.D'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -1679,17 +1866,17 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_26\Object\Coord_A]
 	BarNumber = '0'
-	Price = '5219,76'
+	Price = '5219,94'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_26\Object\Coord_A\DateTime]
-	Ticks = '638478987000000000'
+	Ticks = '638478990000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_26\Object\Coord_B]
 	BarNumber = '0'
-	Price = '5217,44'
+	Price = '5217,98'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_26\Object\Coord_B\DateTime]
-	Ticks = '638478990000000000'
+	Ticks = '638478984000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_26\Object\Fill]
 	Color = '14935011'
@@ -1703,11 +1890,11 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_27]
 	DrawingType = '13'
-	Number = '6'
+	Number = '5'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_27\Object]
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '2371'
+	Coord_Index_1 = '2371'
 	CreatedSymbolName = '@ES.D'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -1715,17 +1902,17 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_27\Object\Coord_A]
 	BarNumber = '0'
-	Price = '5244,65'
+	Price = '5219,76'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_27\Object\Coord_A\DateTime]
-	Ticks = '638479014000000000'
+	Ticks = '638478987000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_27\Object\Coord_B]
 	BarNumber = '0'
-	Price = '5242,87'
+	Price = '5217,44'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_27\Object\Coord_B\DateTime]
-	Ticks = '638479023000000000'
+	Ticks = '638478990000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_27\Object\Fill]
 	Color = '14935011'
@@ -1739,11 +1926,11 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_28]
 	DrawingType = '13'
-	Number = '7'
+	Number = '6'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_28\Object]
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '2371'
+	Coord_Index_1 = '2371'
 	CreatedSymbolName = '@ES.D'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -1751,17 +1938,17 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_28\Object\Coord_A]
 	BarNumber = '0'
-	Price = '5238,59'
+	Price = '5244,65'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_28\Object\Coord_A\DateTime]
-	Ticks = '638479011000000000'
+	Ticks = '638479014000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_28\Object\Coord_B]
 	BarNumber = '0'
-	Price = '5236,62'
+	Price = '5242,87'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_28\Object\Coord_B\DateTime]
-	Ticks = '638479017000000000'
+	Ticks = '638479023000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_28\Object\Fill]
 	Color = '14935011'
@@ -1775,11 +1962,11 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_29]
 	DrawingType = '13'
-	Number = '8'
+	Number = '7'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_29\Object]
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '2371'
+	Coord_Index_1 = '2371'
 	CreatedSymbolName = '@ES.D'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -1787,17 +1974,17 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_29\Object\Coord_A]
 	BarNumber = '0'
-	Price = '5260,8'
+	Price = '5238,59'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_29\Object\Coord_A\DateTime]
-	Ticks = '638479047000000000'
+	Ticks = '638479011000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_29\Object\Coord_B]
 	BarNumber = '0'
-	Price = '5258,92'
+	Price = '5236,62'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_29\Object\Coord_B\DateTime]
-	Ticks = '638479053000000000'
+	Ticks = '638479017000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_29\Object\Fill]
 	Color = '14935011'
@@ -1810,8 +1997,8 @@
 	Width = '1'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_2\Object]
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '2371'
+	Coord_Index_1 = '2371'
 	CreatedSymbolName = 'P.ES-2023M'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -2034,11 +2221,11 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_30]
 	DrawingType = '13'
-	Number = '9'
+	Number = '8'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_30\Object]
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '2371'
+	Coord_Index_1 = '2371'
 	CreatedSymbolName = '@ES.D'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -2046,17 +2233,17 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_30\Object\Coord_A]
 	BarNumber = '0'
-	Price = '5268,35'
+	Price = '5260,8'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_30\Object\Coord_A\DateTime]
-	Ticks = '638479053000000000'
+	Ticks = '638479047000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_30\Object\Coord_B]
 	BarNumber = '0'
-	Price = '5266,79'
+	Price = '5258,92'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_30\Object\Coord_B\DateTime]
-	Ticks = '638479059000000000'
+	Ticks = '638479053000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_30\Object\Fill]
 	Color = '14935011'
@@ -2070,11 +2257,11 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_31]
 	DrawingType = '13'
-	Number = '10'
+	Number = '9'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_31\Object]
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '2371'
+	Coord_Index_1 = '2371'
 	CreatedSymbolName = '@ES.D'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -2082,17 +2269,17 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_31\Object\Coord_A]
 	BarNumber = '0'
-	Price = '5265,48'
+	Price = '5268,35'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_31\Object\Coord_A\DateTime]
-	Ticks = '638479098000000000'
+	Ticks = '638479053000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_31\Object\Coord_B]
 	BarNumber = '0'
-	Price = '5262,36'
+	Price = '5266,79'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_31\Object\Coord_B\DateTime]
-	Ticks = '638479104000000000'
+	Ticks = '638479059000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_31\Object\Fill]
 	Color = '14935011'
@@ -2106,11 +2293,11 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_32]
 	DrawingType = '13'
-	Number = '11'
+	Number = '10'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_32\Object]
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '2371'
+	Coord_Index_1 = '2371'
 	CreatedSymbolName = '@ES.D'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -2118,17 +2305,17 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_32\Object\Coord_A]
 	BarNumber = '0'
-	Price = '5501,09'
+	Price = '5265,48'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_32\Object\Coord_A\DateTime]
-	Ticks = '638539476000000000'
+	Ticks = '638479098000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_32\Object\Coord_B]
 	BarNumber = '0'
-	Price = '5468,75'
+	Price = '5262,36'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_32\Object\Coord_B\DateTime]
-	Ticks = '638539536000000000'
+	Ticks = '638479104000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_32\Object\Fill]
 	Color = '14935011'
@@ -2142,29 +2329,29 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_33]
 	DrawingType = '13'
-	Number = '12'
+	Number = '11'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_33\Object]
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
-	CreatedSymbolName = 'P.ES'
+	Coord_Index_0 = '2371'
+	Coord_Index_1 = '2371'
+	CreatedSymbolName = '@ES.D'
 	IsAnchorToBar = '1'
 	Lock = 'False'
 	Status = 'True'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_33\Object\Coord_A]
 	BarNumber = '0'
-	Price = '5284,0687'
+	Price = '5501,09'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_33\Object\Coord_A\DateTime]
-	Ticks = '638484231000000000'
+	Ticks = '638539476000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_33\Object\Coord_B]
 	BarNumber = '0'
-	Price = '5260,1166'
+	Price = '5468,75'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_33\Object\Coord_B\DateTime]
-	Ticks = '638484249000000000'
+	Ticks = '638539536000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_33\Object\Fill]
 	Color = '14935011'
@@ -2178,11 +2365,11 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_34]
 	DrawingType = '13'
-	Number = '13'
+	Number = '12'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_34\Object]
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '2371'
+	Coord_Index_1 = '2371'
 	CreatedSymbolName = 'P.ES'
 	IsAnchorToBar = '1'
 	Lock = 'False'
@@ -2190,17 +2377,17 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_34\Object\Coord_A]
 	BarNumber = '0'
-	Price = '5149,9444'
+	Price = '5284,0687'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_34\Object\Coord_A\DateTime]
-	Ticks = '638435787000000000'
+	Ticks = '638484231000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_34\Object\Coord_B]
 	BarNumber = '0'
-	Price = '5141,4419'
+	Price = '5260,1166'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_34\Object\Coord_B\DateTime]
-	Ticks = '638435796000000000'
+	Ticks = '638484249000000000'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_34\Object\Fill]
 	Color = '14935011'
@@ -2212,10 +2399,46 @@
 	Style = '2'
 	Width = '1'
 
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_35]
+	DrawingType = '13'
+	Number = '13'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_35\Object]
+	Coord_Index_0 = '2371'
+	Coord_Index_1 = '2371'
+	CreatedSymbolName = 'P.ES'
+	IsAnchorToBar = '1'
+	Lock = 'False'
+	Status = 'True'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_35\Object\Coord_A]
+	BarNumber = '0'
+	Price = '5149,9444'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_35\Object\Coord_A\DateTime]
+	Ticks = '638435787000000000'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_35\Object\Coord_B]
+	BarNumber = '0'
+	Price = '5141,4419'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_35\Object\Coord_B\DateTime]
+	Ticks = '638435796000000000'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_35\Object\Fill]
+	Color = '14935011'
+	Hatch = '0'
+	Style = '0'
+
+[Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_35\Object\Line]
+	Color = '255'
+	Style = '2'
+	Width = '1'
+
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_3\Object]
 	Calculation = '0'
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '2371'
+	Coord_Index_1 = '2371'
 	CreatedSymbolName = 'P.ES-2023M'
 	FixedPoint = '0'
 	IsAnchorToBar = '1'
@@ -2289,8 +2512,8 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_4\Object]
 	Calculation = '0'
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '2371'
+	Coord_Index_1 = '2371'
 	CreatedSymbolName = '@ES.D'
 	FixedPoint = '0'
 	IsAnchorToBar = '1'
@@ -2364,8 +2587,8 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_5\Object]
 	Calculation = '0'
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '2371'
+	Coord_Index_1 = '2371'
 	CreatedSymbolName = '@ES.D'
 	FixedPoint = '0'
 	IsAnchorToBar = '1'
@@ -2439,8 +2662,8 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_6\Object]
 	Calculation = '0'
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '2371'
+	Coord_Index_1 = '2371'
 	CreatedSymbolName = '@ES.D'
 	FixedPoint = '0'
 	IsAnchorToBar = '1'
@@ -2514,8 +2737,8 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_7\Object]
 	Calculation = '0'
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '2371'
+	Coord_Index_1 = '2371'
 	CreatedSymbolName = '@ES.D'
 	FixedPoint = '0'
 	IsAnchorToBar = '1'
@@ -2589,8 +2812,8 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_8\Object]
 	Calculation = '0'
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '2371'
+	Coord_Index_1 = '2371'
 	CreatedSymbolName = '@ES.D'
 	FixedPoint = '0'
 	IsAnchorToBar = '1'
@@ -2664,8 +2887,8 @@
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_0\Drawing_9\Object]
 	Calculation = '0'
-	Coord_Index_0 = '20463'
-	Coord_Index_1 = '20463'
+	Coord_Index_0 = '2371'
+	Coord_Index_1 = '2371'
 	CreatedSymbolName = '@ES.D'
 	FixedPoint = '0'
 	IsAnchorToBar = '1'
@@ -2745,8 +2968,8 @@
 	ManualMode = '0'
 	MarginBottom = '5'
 	MarginTop = '5'
-	Maximum = '909,916666666667'
-	Minimum = '871,583333333333'
+	Maximum = '4715,29166666667'
+	Minimum = '4659,45833333333'
 	MovementSize.Long = '1'
 	MovementSize.Metric = 'False'
 	MovementSize.Price = '5'
@@ -4289,7 +4512,7 @@
 	DrawingsCount = '0'
 	InvisibleSubChart = '0'
 	SeriesType = '0'
-	Status = '0'
+	Status = '1'
 	UpdateOnEveryTick = '1'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_10\AlertObject]
@@ -4374,8 +4597,8 @@
 	ManualMode = '0'
 	MarginBottom = '5'
 	MarginTop = '5'
-	Maximum = '4971,43055555556'
-	Minimum = '4902,81944444444'
+	Maximum = '4715,29166666667'
+	Minimum = '4659,45833333333'
 	MovementSize.Long = '1'
 	MovementSize.Metric = 'False'
 	MovementSize.Price = '5'
@@ -4785,8 +5008,8 @@
 	ManualMode = '0'
 	MarginBottom = '5'
 	MarginTop = '5'
-	Maximum = '120'
-	Minimum = '-240'
+	Maximum = '110'
+	Minimum = '-295'
 	MovementSize.Long = '1'
 	MovementSize.Metric = 'False'
 	MovementSize.Price = '5'
@@ -5073,8 +5296,8 @@
 	ManualMode = '0'
 	MarginBottom = '5'
 	MarginTop = '5'
-	Maximum = '909,916666666667'
-	Minimum = '871,583333333333'
+	Maximum = '4715,29166666667'
+	Minimum = '4659,45833333333'
 	MovementSize.Long = '1'
 	MovementSize.Metric = 'False'
 	MovementSize.Price = '5'
@@ -5641,8 +5864,8 @@
 	ManualMode = '0'
 	MarginBottom = '5'
 	MarginTop = '5'
-	Maximum = '909,916666666667'
-	Minimum = '871,583333333333'
+	Maximum = '4715,29166666667'
+	Minimum = '4659,45833333333'
 	MovementSize.Long = '1'
 	MovementSize.Metric = 'False'
 	MovementSize.Price = '5'
@@ -6840,7 +7063,7 @@
 	DrawingsCount = '0'
 	InvisibleSubChart = '0'
 	SeriesType = '0'
-	Status = '0'
+	Status = '1'
 	UpdateOnEveryTick = '1'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_8\AlertObject]
@@ -6925,8 +7148,8 @@
 	ManualMode = '0'
 	MarginBottom = '5'
 	MarginTop = '5'
-	Maximum = '4971,43055555556'
-	Minimum = '4902,81944444444'
+	Maximum = '4715,29166666667'
+	Minimum = '4659,45833333333'
 	MovementSize.Long = '1'
 	MovementSize.Metric = 'False'
 	MovementSize.Price = '5'
@@ -6972,7 +7195,7 @@
 	DrawingsCount = '0'
 	InvisibleSubChart = '0'
 	SeriesType = '0'
-	Status = '0'
+	Status = '1'
 	UpdateOnEveryTick = '1'
 
 [Wsp\Window_0\ChartManager\Chart_0\Series_9\AlertObject]
@@ -7126,8 +7349,8 @@
 	ManualMode = '0'
 	MarginBottom = '5'
 	MarginTop = '5'
-	Maximum = '4971,43055555556'
-	Minimum = '4902,81944444444'
+	Maximum = '4715,29166666667'
+	Minimum = '4659,45833333333'
 	MovementSize.Long = '1'
 	MovementSize.Metric = 'False'
 	MovementSize.Price = '5'
@@ -7486,9 +7709,9 @@
 	Type = '4'
 
 [Wsp\Window_0\ChartManager\IndexViewCalc]
-	BarSpacing = '26'
-	BarsToRight = '0'
-	BarsToRightValue = '0'
+	BarSpacing = '20'
+	BarsToRight = '23,943661971831'
+	BarsToRightValue = '34'
 	ChartShiftViewType = '0'
 	ShowEmptyPeriod = '0'
 
@@ -7784,7 +8007,7 @@
 	Left Manual = '0'
 	Left Scale = '0'
 	Precise Marker = '1'
-	Right Characters = '8'
+	Right Characters = '10'
 	Right Manual = '0'
 	Right Scale = '1'
 	Time To Close = '1'
@@ -10944,6 +11167,14 @@
 	Stop2 = '0'
 	Value = '0'
 
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_enableSarOnMaxLoss]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '1'
+	Start2 = '1'
+	Step2 = '1'
+	Stop2 = '1'
+	Value = '1'
+
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_enableStobBelowMidOfLastTwoBullBars]
 	IsInputOptimizable = '1'
 	LocalCurrentValue2 = '0'
@@ -11392,6 +11623,14 @@
 	Stop2 = '1'
 	Value = '1'
 
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_enforceMaxLoss]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '1'
+	Start2 = '1'
+	Step2 = '1'
+	Stop2 = '1'
+	Value = '1'
+
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_entryDivideOffset]
 	IsInputOptimizable = '1'
 	LocalCurrentValue2 = '2'
@@ -11682,6 +11921,9 @@
 	Step2 = '1'
 	Stop2 = '20'
 	Value = '20'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_maxLossPerContract]
+	Value = '14*bigpointvalue'
 
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_maxSarEntriesPerDay]
 	IsInputOptimizable = '1'
@@ -15946,6 +16188,14 @@
 	Stop2 = '0'
 	Value = '0'
 
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_enableSarOnMaxLoss]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '1'
+	Start2 = '1'
+	Step2 = '1'
+	Stop2 = '1'
+	Value = '1'
+
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_enableStobBelowMidOfLastTwoBullBars]
 	IsInputOptimizable = '1'
 	LocalCurrentValue2 = '0'
@@ -16394,6 +16644,14 @@
 	Stop2 = '0'
 	Value = '0'
 
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_enforceMaxLoss]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '1'
+	Start2 = '1'
+	Step2 = '1'
+	Stop2 = '1'
+	Value = '1'
+
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_entryDivideOffset]
 	IsInputOptimizable = '1'
 	LocalCurrentValue2 = '2'
@@ -16684,6 +16942,9 @@
 	Step2 = '1'
 	Stop2 = '20'
 	Value = '20'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_maxLossPerContract]
+	Value = '14*bigpointvalue'
 
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_maxSarEntriesPerDay]
 	IsInputOptimizable = '1'
@@ -18209,11 +18470,11 @@
 
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_tradeScreenDebug]
 	IsInputOptimizable = '1'
-	LocalCurrentValue2 = '0'
+	LocalCurrentValue2 = '1'
 	Start2 = '1'
 	Step2 = '1'
 	Stop2 = '1'
-	Value = '0'
+	Value = '1'
 
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_tradingEnabled]
 	IsInputOptimizable = '1'
@@ -19126,7 +19387,7 @@ The reserved words supported in Portfolio optimization:
 	TIF = '1'
 
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings\Item_0\Second\TIFDate]
-	Ticks = '638630411006620000'
+	Ticks = '638634304378720000'
 
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\Window]
 	Property_CalcPriceValue = '0'
