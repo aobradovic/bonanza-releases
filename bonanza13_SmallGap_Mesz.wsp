@@ -14,14 +14,14 @@
 	ContainerHeight = '1585'
 	ContainerWidth = '3812'
 	Flags = '2'
-	Height = '1518'
+	Height = '1514'
 	Left = '0'
 	MinX = '-1'
 	MinY = '-1'
 	State = '3'
 	Top = '0'
 	ViewType = '0'
-	Width = '2432'
+	Width = '2429'
 
 [Wsp\Window_0\ChartManager]
 	ChartCount = '2'
@@ -77,9 +77,9 @@
 	ExpirationDate = '0'
 	FieldId = '201'
 	FieldName = 'Trade'
-	FinishDate2Id = '45581'
+	FinishDate2Id = '45585'
 	FinishDate2Name = ''
-	FinishDateId = '45581'
+	FinishDateId = '45585'
 	FinishDateName = ''
 	FootPrintChartType = '0'
 	KagiReversal = '0,25'
@@ -7428,7 +7428,7 @@
 	Left Manual = '0'
 	Left Scale = '0'
 	Precise Marker = '1'
-	Right Characters = '8'
+	Right Characters = '2'
 	Right Manual = '0'
 	Right Scale = '1'
 	Time To Close = '1'
@@ -8273,6 +8273,54 @@
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_Frama_Price]
 	Value = '(h+l)/2'
 
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_OR_UseLimitInsteadOfMarketToScaleIn]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '1'
+	Start2 = '1'
+	Step2 = '1'
+	Stop2 = '1'
+	Value = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_OR_clearTargetsAfterBar]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '30'
+	Start2 = '30'
+	Step2 = '1'
+	Stop2 = '30'
+	Value = '30'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_OR_decreaseTargetByPointsAfter2Scaleins]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '0,5'
+	Start2 = '0,5'
+	Step2 = '1'
+	Stop2 = '0,5'
+	Value = '0.50'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_OR_decreaseTargetByPointsAfter3Scaleins]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '1,5'
+	Start2 = '1,5'
+	Step2 = '1'
+	Stop2 = '1,5'
+	Value = '1.50'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_OR_limitEntryInsteadOfMkt]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '1'
+	Start2 = '1'
+	Step2 = '1'
+	Stop2 = '1'
+	Value = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_OR_limitEntryMaxPoints]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '1,5'
+	Start2 = '1,5'
+	Step2 = '1'
+	Stop2 = '1,5'
+	Value = '1.5'
+
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_Sigma1_Color_Bl]
 	Value = 'rgb(152,251,152)'
 
@@ -8329,13 +8377,13 @@
 	Stop2 = '0,7'
 	Value = '0.7'
 
-[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_Version.13.0901]
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_Version.13.2410031]
 	IsInputOptimizable = '1'
-	LocalCurrentValue2 = '20240901'
-	Start2 = '20240901'
+	LocalCurrentValue2 = '202410031'
+	Start2 = '202410031'
 	Step2 = '1'
-	Stop2 = '20240901'
-	Value = '20240901'
+	Stop2 = '202410031'
+	Value = '202410031'
 
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input__4CCOR_initialTargetMultiplier]
 	IsInputOptimizable = '1'
@@ -10587,6 +10635,22 @@
 	Stop2 = '0'
 	Value = '0'
 
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_enableSarOnMaxLoss]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '1'
+	Start2 = '1'
+	Step2 = '1'
+	Stop2 = '1'
+	Value = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_enableSarOnSmallGapforceExitAfterBar]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '0'
+	Start2 = '0'
+	Step2 = '1'
+	Stop2 = '0'
+	Value = '0'
+
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_enableStobBelowMidOfLastTwoBullBars]
 	IsInputOptimizable = '1'
 	LocalCurrentValue2 = '0'
@@ -11027,6 +11091,22 @@
 	Stop2 = '0'
 	Value = '0'
 
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_enforceFomc]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '1'
+	Start2 = '1'
+	Step2 = '1'
+	Stop2 = '1'
+	Value = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_enforceMaxLoss]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '1'
+	Start2 = '1'
+	Step2 = '1'
+	Stop2 = '1'
+	Value = '1'
+
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_entryDivideOffset]
 	IsInputOptimizable = '1'
 	LocalCurrentValue2 = '2'
@@ -11317,6 +11397,17 @@
 	Step2 = '1'
 	Stop2 = '20'
 	Value = '20'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_maxLossPerContract]
+	Value = '14*bigpointvalue'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_maxSarEntriesPerDay]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '1'
+	Start2 = '1'
+	Step2 = '1'
+	Stop2 = '1'
+	Value = '1'
 
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_medVolVixHighMark]
 	IsInputOptimizable = '1'
@@ -11936,6 +12027,14 @@
 	Value = '1'
 
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_sar_contracts_multiplier]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '1'
+	Start2 = '1'
+	Step2 = '1'
+	Stop2 = '1'
+	Value = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\CustomInputHelperDT\Input_sar_exit_on_halfbarssinceentry]
 	IsInputOptimizable = '1'
 	LocalCurrentValue2 = '1'
 	Start2 = '1'
@@ -13203,6 +13302,54 @@
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_Frama_Price]
 	Value = '(h+l)/2'
 
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_OR_UseLimitInsteadOfMarketToScaleIn]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '1'
+	Start2 = '1'
+	Step2 = '1'
+	Stop2 = '1'
+	Value = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_OR_clearTargetsAfterBar]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '30'
+	Start2 = '30'
+	Step2 = '1'
+	Stop2 = '30'
+	Value = '30'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_OR_decreaseTargetByPointsAfter2Scaleins]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '0,5'
+	Start2 = '0,5'
+	Step2 = '1'
+	Stop2 = '0,5'
+	Value = '0.50'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_OR_decreaseTargetByPointsAfter3Scaleins]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '1,5'
+	Start2 = '1,5'
+	Step2 = '1'
+	Stop2 = '1,5'
+	Value = '1.50'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_OR_limitEntryInsteadOfMkt]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '1'
+	Start2 = '1'
+	Step2 = '1'
+	Stop2 = '1'
+	Value = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_OR_limitEntryMaxPoints]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '1,5'
+	Start2 = '1,5'
+	Step2 = '1'
+	Stop2 = '1,5'
+	Value = '1.5'
+
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_Sigma1_Color_Bl]
 	Value = 'rgb(152,251,152)'
 
@@ -13259,13 +13406,13 @@
 	Stop2 = '0,7'
 	Value = '0.7'
 
-[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_Version.13.0901]
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_Version.13.2410031]
 	IsInputOptimizable = '1'
-	LocalCurrentValue2 = '20240901'
-	Start2 = '20240901'
+	LocalCurrentValue2 = '202410031'
+	Start2 = '202410031'
 	Step2 = '1'
-	Stop2 = '20240901'
-	Value = '20240901'
+	Stop2 = '202410031'
+	Value = '202410031'
 
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input__4CCOR_initialTargetMultiplier]
 	IsInputOptimizable = '1'
@@ -15517,6 +15664,22 @@
 	Stop2 = '0'
 	Value = '0'
 
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_enableSarOnMaxLoss]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '1'
+	Start2 = '1'
+	Step2 = '1'
+	Stop2 = '1'
+	Value = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_enableSarOnSmallGapforceExitAfterBar]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '0'
+	Start2 = '0'
+	Step2 = '1'
+	Stop2 = '0'
+	Value = '0'
+
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_enableStobBelowMidOfLastTwoBullBars]
 	IsInputOptimizable = '1'
 	LocalCurrentValue2 = '0'
@@ -15957,6 +16120,22 @@
 	Stop2 = '0'
 	Value = '0'
 
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_enforceFomc]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '1'
+	Start2 = '1'
+	Step2 = '1'
+	Stop2 = '1'
+	Value = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_enforceMaxLoss]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '1'
+	Start2 = '1'
+	Step2 = '1'
+	Stop2 = '1'
+	Value = '1'
+
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_entryDivideOffset]
 	IsInputOptimizable = '1'
 	LocalCurrentValue2 = '2'
@@ -16247,6 +16426,17 @@
 	Step2 = '1'
 	Stop2 = '20'
 	Value = '20'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_maxLossPerContract]
+	Value = '14*bigpointvalue'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_maxSarEntriesPerDay]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '1'
+	Start2 = '1'
+	Step2 = '1'
+	Stop2 = '1'
+	Value = '1'
 
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_medVolVixHighMark]
 	IsInputOptimizable = '1'
@@ -16866,6 +17056,14 @@
 	Value = '0'
 
 [Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_sar_contracts_multiplier]
+	IsInputOptimizable = '1'
+	LocalCurrentValue2 = '1'
+	Start2 = '1'
+	Step2 = '1'
+	Stop2 = '1'
+	Value = '1'
+
+[Wsp\Window_0\ChartManager\Strategy\SignalObject_1\SignalHelper\InputHelper\Input_sar_exit_on_halfbarssinceentry]
 	IsInputOptimizable = '1'
 	LocalCurrentValue2 = '1'
 	Start2 = '1'
@@ -28641,12 +28839,12 @@
 	Width = '2'
 
 [Wsp\Window_0\ChartManager\Strategy\StrategyATPersistHelper]
-	ATOn = 'True'
+	ATOn = 'False'
 	ATOnEventID = '0'
 	Confirm = 'False'
 	NeedActivateAT = 'False'
 	Profile = 'Interactive Brokers'
-	StrategyName = 'AO_BONANZA_14'
+	StrategyName = 'AO_BONANZA_14; AO_BONANZA_13'
 	SymbolName = 'MESZ4 - 5 Minutes - Interactive Brokers'
 
 [Wsp\Window_0\ChartManager\Strategy\StrategyHelper\DynTradeOptimizeProps\Algorithm_0]
@@ -29198,7 +29396,7 @@ The reserved words supported in Portfolio optimization:
 	TIF = '1'
 
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings\Item_0\Second\TIFDate]
-	Ticks = '599266080000000000'
+	Ticks = '638650279686120000'
 
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings\Item_1]
 	First = '37121076'
@@ -29209,7 +29407,7 @@ The reserved words supported in Portfolio optimization:
 	TIF = '1'
 
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings\Item_1\Second\TIFDate]
-	Ticks = '638645705740160000'
+	Ticks = '638650279686120000'
 
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings\Item_2]
 	First = 'U6516262'
@@ -29220,7 +29418,7 @@ The reserved words supported in Portfolio optimization:
 	TIF = '1'
 
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\PerAccountSetting\Settings\Settings\Item_2\Second\TIFDate]
-	Ticks = '638646570468630000'
+	Ticks = '638650279686120000'
 
 [Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\Window]
 	Property_CalcPriceValue = '0'
@@ -29236,9 +29434,6 @@ The reserved words supported in Portfolio optimization:
 	Property_QuantityValue = '1'
 	Property_StopLossType = '0'
 	Property_StopLossValue = '28'
-
-[Wsp\Window_0\ChartManager\TradePanelPlaceholder\TradePanelObject\Window\AtmAutoApplyCtx\PropertyState]
-	Count = '0'
 
 [Wsp\Window_0\ChartManager\VolumeScale]
 	VolumeBarColor = '8421504'
